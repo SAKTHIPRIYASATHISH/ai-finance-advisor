@@ -4,7 +4,7 @@ An end-to-end ML-powered personal finance app built for Indian users. Tracks UPI
 
 ## Live Demo
 
-sakthipriya2026-ai-finance-advisor.hf.space
+https://sakthipriya2026-ai-finance-advisor.hf.space
 
 ## Features
 
