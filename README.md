@@ -3,9 +3,8 @@
 An end-to-end ML-powered personal finance app built for Indian users. Tracks UPI/card expenses, auto-classifies transactions, predicts next month's spending, detects anomalies, and delivers AI-generated budget advice — all in one Streamlit dashboard.
 
 ## Live Demo
-[Coming after Week 3 deployment — Hugging Face Spaces]
 
----
+sakthipriya2026-ai-finance-advisor.hf.space
 
 ## Features
 
@@ -92,4 +91,4 @@ Synthetic dataset of 2000 Indian transactions covering:
 
 ---
 
-Built by [Your Name] — placement project for SDE / Data Science / Full Stack roles.
+Built by Sakthi Priya S
