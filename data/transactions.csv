@@ -1,0 +1,2041 @@
+date,description,amount,category,payment_mode,is_anomaly
+2024-04-05,Water tax,1962.0,Bills & Utilities,Debit Card,0
+2023-06-03,Books - Amazon,12916.48,Education,UPI,0
+2024-07-18,Netmeds delivery,2667.94,Health,UPI,0
+2023-05-12,Stationery,12107.44,Education,UPI,0
+2023-09-06,MedPlus medicine,3651.73,Health,Credit Card,0
+2023-07-14,Subway (unusual),3041.7,Food,Net Banking,1
+2024-04-15,Sony LIV,626.93,Entertainment,Cash,0
+2023-12-29,Petrol - HP pump,4194.71,Transport,UPI,0
+2023-10-13,Society maintenance,1797.79,Bills & Utilities,Cash,0
+2024-07-07,YouTube Premium,806.22,Entertainment,Credit Card,0
+2024-03-29,SIP - Groww,4807.24,EMI & Finance,Net Banking,0
+2024-04-08,Burger King,1166.14,Food,Credit Card,0
+2024-09-11,Thyrocare test,2699.73,Health,UPI,0
+2023-06-15,Doctor consultation fee,4000.27,Health,Debit Card,0
+2024-03-28,ICICI personal loan EMI,16653.61,EMI & Finance,UPI,0
+2024-02-09,Myntra clothes,3951.2,Shopping,UPI,0
+2023-04-11,Books - Amazon,7449.41,Education,Debit Card,0
+2023-06-20,BESCOM electricity,1671.52,Bills & Utilities,Debit Card,0
+2023-06-29,Laundry service - Urban Company,1808.35,Personal Care,UPI,0
+2023-02-05,HDFC Life insurance,12292.5,EMI & Finance,UPI,0
+2024-11-10,Haldiram's,995.16,Food,UPI,0
+2023-12-28,JioMart,2430.46,Groceries,UPI,0
+2024-01-13,Gym membership,1216.08,Personal Care,UPI,0
+2023-11-08,Flipkart order,5621.4,Shopping,Credit Card,0
+2023-10-12,Udemy course,14392.15,Education,Net Banking,0
+2024-10-20,Local kirana store,1257.99,Groceries,Debit Card,0
+2023-03-12,Local kirana store,2423.4,Groceries,Debit Card,0
+2023-08-07,Books - Amazon,1833.21,Education,UPI,0
+2023-03-19,Local kirana store,1961.02,Groceries,Cash,0
+2023-01-23,DTH recharge - Tata Sky,3210.84,Bills & Utilities,UPI,0
+2024-02-04,INOX movies,1336.33,Entertainment,Debit Card,0
+2023-12-21,Myntra clothes,2716.75,Shopping,Debit Card,0
+2024-01-03,Swiggy order,867.76,Food,Debit Card,0
+2024-11-05,DTH recharge - Dish TV,1174.26,Bills & Utilities,Cash,0
+2024-08-28,Netflix subscription (unusual),7472.07,Entertainment,Credit Card,1
+2024-01-19,Coaching institute fee,3918.78,Education,Cash,0
+2023-01-01,Big Bazaar,7637.3,Shopping,Net Banking,0
+2023-03-11,SIP - Groww,19219.55,EMI & Finance,UPI,0
+2023-03-24,Nykaa beauty,6926.67,Shopping,UPI,0
+2024-10-05,Spencer's retail,787.76,Shopping,Cash,0
+2024-11-15,Local kirana store,1947.39,Groceries,Credit Card,0
+2023-06-23,YouTube Premium,334.7,Entertainment,Debit Card,0
+2024-09-24,Beauty parlour,2220.02,Personal Care,UPI,0
+2024-10-17,Salon haircut,2369.72,Personal Care,Debit Card,0
+2023-02-28,Nykaa skincare,758.93,Personal Care,Cash,0
+2024-06-14,Netmeds delivery,961.84,Health,Cash,0
+2024-08-03,Nykaa skincare,370.05,Personal Care,UPI,0
+2023-11-17,HDFC Life insurance,11170.79,EMI & Finance,Debit Card,0
+2023-09-22,Yoga class fee,1494.56,Personal Care,Credit Card,0
+2023-07-31,1mg order,3119.14,Health,Debit Card,0
+2024-11-26,Gym membership,1169.87,Personal Care,UPI,0
+2023-10-15,Burger King,995.47,Food,UPI,0
+2023-09-10,More supermarket,491.68,Groceries,Net Banking,0
+2024-10-31,SBI home loan EMI,3162.43,EMI & Finance,UPI,0
+2024-10-25,Netmeds delivery,750.29,Health,UPI,0
+2023-05-17,INOX movies (unusual),4031.71,Entertainment,Credit Card,1
+2024-10-07,BookMyShow movie,346.43,Entertainment,UPI,0
+2024-07-07,SBI credit card payment,21877.55,EMI & Finance,UPI,0
+2024-04-08,SIP - Groww,8011.29,EMI & Finance,Debit Card,0
+2024-08-02,HDFC Life insurance,14523.91,EMI & Finance,UPI,0
+2023-02-06,McDonald's,246.46,Food,UPI,0
+2024-12-18,Dunzo grocery,1725.27,Groceries,UPI,0
+2023-01-02,BSNL broadband,3457.18,Bills & Utilities,Debit Card,0
+2024-02-26,PPF deposit,6900.28,EMI & Finance,Debit Card,0
+2024-02-10,Local kirana store,454.87,Groceries,UPI,0
+2024-12-02,Spencer's retail,5682.08,Shopping,Cash,0
+2024-02-14,Dominos Pizza,177.26,Food,UPI,0
+2023-06-06,Dominos Pizza,508.55,Food,Credit Card,0
+2024-04-16,Gym membership,355.81,Personal Care,UPI,0
+2023-09-12,GeeksForGeeks premium,9753.62,Education,UPI,0
+2023-04-01,IRCTC train ticket,2206.75,Transport,Credit Card,0
+2024-12-08,Local dhaba,431.34,Food,UPI,0
+2023-06-01,Salon haircut,2280.27,Personal Care,UPI,0
+2024-10-13,Dominos Pizza,374.2,Food,Cash,0
+2024-02-20,Nykaa skincare,1600.51,Personal Care,Debit Card,0
+2023-06-22,Reliance Digital,7613.11,Shopping,UPI,0
+2024-03-18,PVR Cinemas,226.81,Entertainment,UPI,0
+2023-09-04,Fortis hospital,4148.16,Health,UPI,0
+2023-06-27,Laundry service - Urban Company,388.68,Personal Care,Debit Card,0
+2024-06-27,Petrol - Indian Oil,1548.93,Transport,UPI,0
+2024-12-05,Nykaa beauty,1567.58,Shopping,Debit Card,0
+2023-10-20,Amazon Prime,150.31,Entertainment,Credit Card,0
+2023-12-17,BookMyShow movie (unusual),6293.66,Entertainment,UPI,1
+2023-01-18,PVR Cinemas,621.86,Entertainment,Debit Card,0
+2023-05-31,Ajio fashion,4922.4,Shopping,Cash,0
+2024-12-24,Air India ticket,3272.13,Transport,Credit Card,0
+2023-06-10,GeeksForGeeks premium,7312.37,Education,Credit Card,0
+2023-02-24,Myntra clothes,3154.65,Shopping,Debit Card,0
+2024-04-26,Myntra personal care,602.17,Personal Care,UPI,0
+2024-03-25,BYJU's fee,1067.56,Education,Debit Card,0
+2024-12-16,Zee5 subscription,1121.62,Entertainment,UPI,0
+2023-09-21,LIC premium,19625.1,EMI & Finance,UPI,0
+2023-07-25,Croma electronics,741.31,Shopping,Cash,0
+2023-01-04,Fastag recharge,1934.91,Transport,UPI,0
+2023-07-04,IRCTC train ticket,466.42,Transport,Net Banking,0
+2023-07-11,Big Bazaar,1501.55,Shopping,UPI,0
+2023-03-14,Manipal hospital,1608.27,Health,Cash,0
+2024-08-31,LIC premium,16064.61,EMI & Finance,Debit Card,0
+2024-07-21,PVR Cinemas,895.97,Entertainment,UPI,0
+2024-06-04,Cafe Coffee Day,1000.76,Food,UPI,0
+2024-01-04,Ajio fashion,3635.18,Shopping,Credit Card,0
+2023-02-17,YouTube Premium,257.23,Entertainment,UPI,0
+2023-07-28,LinkedIn Learning,2444.34,Education,UPI,0
+2023-04-20,Netmeds delivery,823.1,Health,Credit Card,0
+2024-06-15,Local kirana store,372.13,Groceries,Credit Card,0
+2024-12-08,Apollo pharmacy,2039.38,Health,Net Banking,0
+2024-03-24,GeeksForGeeks premium,10207.55,Education,Debit Card,0
+2024-02-17,Local kirana store,372.51,Groceries,Credit Card,0
+2023-01-30,Myntra clothes,5195.74,Shopping,UPI,0
+2024-08-12,Thyrocare test,4735.7,Health,UPI,0
+2023-02-05,Myntra clothes,4308.59,Shopping,UPI,0
+2023-06-01,Gym membership,2051.33,Personal Care,UPI,0
+2024-12-04,Coursera subscription,559.59,Education,Cash,0
+2024-12-01,Gym membership,344.56,Personal Care,Debit Card,0
+2023-10-28,Dunzo grocery,281.57,Groceries,Cash,0
+2024-10-28,Meesho purchase,1901.46,Shopping,Debit Card,0
+2023-03-24,JioMart,1004.93,Groceries,Debit Card,0
+2023-10-11,Amazon India,2486.38,Shopping,UPI,0
+2024-08-13,Swiggy Instamart,917.36,Groceries,Net Banking,0
+2024-05-06,BigBasket order,1822.52,Groceries,Cash,0
+2023-02-19,Kotak credit card,20101.46,EMI & Finance,Debit Card,0
+2024-04-13,Zepto delivery,2714.9,Groceries,Debit Card,0
+2023-05-01,Mutual fund SIP - Zerodha,8660.58,EMI & Finance,Credit Card,0
+2024-10-11,Nykaa skincare,2425.41,Personal Care,UPI,0
+2023-03-22,ICICI personal loan EMI,19915.59,EMI & Finance,UPI,0
+2024-01-23,HDFC Life insurance,15720.27,EMI & Finance,UPI,0
+2024-12-16,1mg order,3522.76,Health,UPI,0
+2023-04-13,SBI credit card payment,4948.95,EMI & Finance,Credit Card,0
+2024-06-20,Gym membership,1446.8,Personal Care,Cash,0
+2023-03-12,Society maintenance,3217.76,Bills & Utilities,Credit Card,0
+2023-10-16,Subway (unusual),4440.58,Food,UPI,1
+2023-05-23,Term insurance premium,7157.56,EMI & Finance,Cash,0
+2023-03-10,Ola outstation,1283.62,Transport,Cash,0
+2023-12-29,BookMyShow movie,635.2,Entertainment,UPI,0
+2024-01-31,Myntra personal care,164.41,Personal Care,UPI,0
+2023-05-24,SIP - Groww,17120.9,EMI & Finance,UPI,0
+2023-03-06,Gaming - Steam,1029.47,Entertainment,UPI,0
+2024-05-08,YouTube Premium,1215.95,Entertainment,Credit Card,0
+2023-11-01,Jio recharge,3289.86,Bills & Utilities,Debit Card,0
+2024-03-10,KFC order,598.56,Food,Debit Card,0
+2023-12-12,Manipal hospital,2907.99,Health,Credit Card,0
+2024-07-25,Fortis hospital,1126.97,Health,UPI,0
+2023-06-21,BMTC bus pass,2866.44,Transport,UPI,0
+2023-07-12,Fastag recharge,3697.95,Transport,UPI,0
+2023-05-01,BSNL broadband,898.97,Bills & Utilities,UPI,0
+2023-08-17,Gaming - Steam,1185.05,Entertainment,UPI,0
+2023-10-03,Rapido bike (unusual),17284.81,Transport,UPI,1
+2024-06-22,Piped gas bill,652.88,Bills & Utilities,UPI,0
+2024-02-18,Air India ticket,3366.31,Transport,UPI,0
+2023-02-10,Manipal hospital,4597.72,Health,Net Banking,0
+2023-08-28,Laundry service - Urban Company,1157.11,Personal Care,Net Banking,0
+2023-07-30,Dunkin Donuts,1028.72,Food,Net Banking,0
+2023-06-24,Gaming - Steam,601.25,Entertainment,UPI,0
+2024-11-22,DTH recharge - Tata Sky,2127.78,Bills & Utilities,UPI,0
+2023-07-28,Gaming - Steam,791.3,Entertainment,UPI,0
+2023-04-06,PVR Cinemas,986.71,Entertainment,Net Banking,0
+2023-06-19,Doctor consultation fee,3377.48,Health,Debit Card,0
+2023-01-27,Nykaa skincare,1685.27,Personal Care,Credit Card,0
+2024-09-15,SIP - Groww,13089.0,EMI & Finance,UPI,0
+2023-02-25,Rapido bike,3035.85,Transport,Credit Card,0
+2024-08-17,Swiggy Instamart,1272.25,Groceries,UPI,0
+2024-03-17,Uber ride,133.69,Transport,UPI,0
+2024-10-22,Apollo pharmacy,979.87,Health,UPI,0
+2024-10-18,Subway,834.09,Food,Credit Card,0
+2024-08-11,PVR Cinemas,431.33,Entertainment,Credit Card,0
+2023-03-05,Coaching institute fee,1632.49,Education,Credit Card,0
+2023-11-02,Flipkart order,5402.57,Shopping,Debit Card,0
+2023-03-11,BookMyShow movie,470.56,Entertainment,UPI,0
+2023-04-11,Cult.fit subscription,903.92,Personal Care,UPI,0
+2023-03-21,Petrol - Indian Oil,1829.1,Transport,Net Banking,0
+2024-01-29,Water tax,2989.5,Bills & Utilities,UPI,0
+2023-02-23,Jio recharge,1752.01,Bills & Utilities,Debit Card,0
+2023-08-19,Zee5 subscription,1319.46,Entertainment,Debit Card,0
+2023-01-31,Sony LIV,1212.24,Entertainment,UPI,0
+2023-08-04,Vi recharge,2385.51,Bills & Utilities,UPI,0
+2023-03-05,Nature's Basket,1874.27,Groceries,Credit Card,0
+2023-12-19,Haldiram's,901.64,Food,UPI,0
+2023-11-27,Spotify premium,1255.85,Entertainment,Credit Card,0
+2023-07-12,Thyrocare test,3054.32,Health,Net Banking,0
+2023-11-24,Unacademy Plus,12783.22,Education,Cash,0
+2023-03-28,PVR Cinemas,1235.16,Entertainment,Debit Card,0
+2024-03-17,Amazon Prime,850.9,Entertainment,Debit Card,0
+2024-01-29,Gaming - Steam,607.48,Entertainment,Credit Card,0
+2023-06-11,RedBus ticket,283.43,Transport,Credit Card,0
+2023-02-10,Nature's Basket,2154.79,Groceries,UPI,0
+2023-09-05,Local kirana store,2250.77,Groceries,UPI,0
+2023-12-05,Lifestyle store,1868.83,Shopping,UPI,0
+2023-02-25,Piped gas bill,932.91,Bills & Utilities,Credit Card,0
+2023-10-30,GeeksForGeeks premium,7888.08,Education,Debit Card,0
+2023-05-26,Piped gas bill,3237.81,Bills & Utilities,UPI,0
+2023-08-08,HDFC Life insurance,17087.36,EMI & Finance,Debit Card,0
+2023-11-09,McDonald's,362.68,Food,Debit Card,0
+2023-12-18,Laundry service - Urban Company,1458.74,Personal Care,UPI,0
+2024-04-02,TATA Power bill,1272.8,Bills & Utilities,Credit Card,0
+2023-08-30,Barbeque Nation,494.99,Food,UPI,0
+2024-05-15,Thyrocare test,2012.47,Health,Credit Card,0
+2023-05-16,Subway,306.6,Food,Credit Card,0
+2024-06-12,Vi recharge,310.91,Bills & Utilities,Credit Card,0
+2023-02-07,Dominos Pizza,246.05,Food,Credit Card,0
+2023-12-03,Metro card recharge,2537.2,Transport,Credit Card,0
+2024-01-13,Local kirana store,224.91,Groceries,Credit Card,0
+2024-11-29,Diagnostic lab - SRL,198.26,Health,Debit Card,0
+2023-03-09,Petrol - HP pump,539.46,Transport,Credit Card,0
+2023-11-14,Water tax,2843.63,Bills & Utilities,Debit Card,0
+2024-01-11,GeeksForGeeks premium,10669.05,Education,UPI,0
+2024-03-28,PPF deposit,3495.65,EMI & Finance,UPI,0
+2024-05-21,Pizza Hut,1085.66,Food,Cash,0
+2023-11-20,Fortis hospital,2310.52,Health,UPI,0
+2023-11-23,Hotstar subscription,347.87,Entertainment,UPI,0
+2023-05-09,Swiggy order,961.21,Food,UPI,0
+2024-12-14,Yoga class fee,1028.2,Personal Care,Debit Card,0
+2024-12-03,DMart grocery,5345.26,Shopping,UPI,0
+2024-05-08,Airtel recharge,1048.0,Bills & Utilities,Debit Card,0
+2023-04-16,BMTC bus pass (unusual),16581.29,Transport,Debit Card,1
+2024-08-29,Jio recharge,567.56,Bills & Utilities,UPI,0
+2024-01-18,Petrol - HP pump,3879.98,Transport,Cash,0
+2024-12-15,Practo consultation,516.89,Health,Credit Card,0
+2023-03-17,BSNL broadband,1251.77,Bills & Utilities,Cash,0
+2023-09-02,Metro card recharge,3159.11,Transport,Debit Card,0
+2024-05-10,DTH recharge - Dish TV,1661.14,Bills & Utilities,UPI,0
+2023-01-07,PPF deposit,10645.97,EMI & Finance,UPI,0
+2024-01-17,Croma electronics,3506.75,Shopping,UPI,0
+2023-03-02,Manipal hospital,2458.66,Health,Net Banking,0
+2024-02-29,Books - Amazon,9016.44,Education,Debit Card,0
+2023-04-02,Kotak credit card,16855.65,EMI & Finance,Net Banking,0
+2023-08-05,Thyrocare test,368.43,Health,UPI,0
+2023-06-01,Unacademy Plus,1748.36,Education,Debit Card,0
+2024-10-26,Myntra personal care,1773.93,Personal Care,Net Banking,0
+2024-03-12,Gym membership,1101.6,Personal Care,Credit Card,0
+2024-08-06,BlinkIt vegetables,1694.23,Groceries,Debit Card,0
+2023-09-15,GeeksForGeeks premium,14270.28,Education,Cash,0
+2024-10-12,Amazon Prime,353.27,Entertainment,Credit Card,0
+2024-06-17,Spotify premium,1398.83,Entertainment,UPI,0
+2023-01-25,Dunzo grocery,2940.88,Groceries,UPI,0
+2023-07-26,Salon haircut,216.8,Personal Care,UPI,0
+2023-01-20,Fastag recharge,4216.01,Transport,UPI,0
+2023-07-11,Water tax,785.51,Bills & Utilities,Credit Card,0
+2024-05-05,Water tax,2323.02,Bills & Utilities,UPI,0
+2024-10-24,YouTube Premium,883.31,Entertainment,UPI,0
+2024-01-05,Air India ticket,540.91,Transport,UPI,0
+2024-06-25,IndiGo flight,1748.21,Transport,Cash,0
+2024-11-10,Lifestyle store,4168.15,Shopping,UPI,0
+2024-09-21,1mg order,3067.0,Health,UPI,0
+2024-07-10,BMTC bus pass,1694.4,Transport,UPI,0
+2024-09-01,DTH recharge - Tata Sky,2504.98,Bills & Utilities,UPI,0
+2023-11-02,Term insurance premium,8144.97,EMI & Finance,UPI,0
+2023-07-29,Amazon India,1554.67,Shopping,Credit Card,0
+2024-06-19,MedPlus medicine,1137.22,Health,Credit Card,0
+2023-04-23,Meesho purchase,3994.48,Shopping,Credit Card,0
+2024-06-12,College fee,5956.77,Education,Net Banking,0
+2024-05-31,1mg order,631.99,Health,UPI,0
+2023-04-08,SIP - Groww,9192.26,EMI & Finance,Debit Card,0
+2023-11-29,Practo consultation,664.35,Health,UPI,0
+2023-10-03,Laundry service - Urban Company,1744.76,Personal Care,UPI,0
+2024-11-01,BookMyShow movie,1111.14,Entertainment,UPI,0
+2023-01-10,Swiggy Instamart,1137.31,Groceries,Debit Card,0
+2023-12-28,Hotstar subscription,725.43,Entertainment,Debit Card,0
+2023-04-27,Zepto delivery,2946.57,Groceries,UPI,0
+2024-11-23,Reliance Digital,3757.33,Shopping,Cash,0
+2024-12-30,Flipkart order,2643.08,Shopping,Debit Card,0
+2023-09-22,Coursera subscription,8836.95,Education,UPI,0
+2024-07-19,LinkedIn Learning,4616.95,Education,UPI,0
+2023-09-22,BYJU's fee,4759.87,Education,UPI,0
+2023-09-21,Metro card recharge,2712.4,Transport,Credit Card,0
+2023-05-14,Dunkin Donuts,846.6,Food,Debit Card,0
+2023-05-18,Gaming - Steam,236.6,Entertainment,Net Banking,0
+2024-02-15,IRCTC train ticket,3676.59,Transport,UPI,0
+2024-07-06,Petrol - HP pump,4396.72,Transport,Credit Card,0
+2023-03-09,SBI home loan EMI,10951.29,EMI & Finance,UPI,0
+2023-10-07,Coursera subscription,4633.41,Education,Debit Card,0
+2024-01-13,Spotify premium,1489.34,Entertainment,Credit Card,0
+2023-01-25,Unacademy Plus,2683.21,Education,Cash,0
+2023-04-10,Petrol - Indian Oil,2702.54,Transport,UPI,0
+2023-10-28,College fee,11644.68,Education,UPI,0
+2024-06-28,GeeksForGeeks premium,10499.97,Education,Cash,0
+2024-04-16,Apollo pharmacy,4307.11,Health,UPI,0
+2024-03-18,Rapido bike,3276.58,Transport,Cash,0
+2024-06-29,RedBus ticket,2212.66,Transport,UPI,0
+2024-03-28,Books - Amazon,3666.6,Education,Credit Card,0
+2023-09-08,College fee,9807.66,Education,UPI,0
+2023-05-11,Ajio fashion,1111.37,Shopping,UPI,0
+2023-10-24,Manipal hospital,1012.93,Health,Debit Card,0
+2023-08-28,DTH recharge - Dish TV,3036.7,Bills & Utilities,UPI,0
+2024-01-19,Burger King,971.68,Food,UPI,0
+2024-09-12,MedPlus medicine,1820.34,Health,Credit Card,0
+2024-05-24,Starbucks,937.24,Food,UPI,0
+2023-03-09,Sony LIV,280.81,Entertainment,Net Banking,0
+2024-10-29,LIC premium,10332.21,EMI & Finance,UPI,0
+2024-11-17,Gym membership,1510.25,Personal Care,UPI,0
+2024-04-14,KFC order,232.88,Food,Net Banking,0
+2023-06-22,Starbucks (unusual),4345.96,Food,Credit Card,1
+2023-01-25,Axis Bank credit card bill,9376.98,EMI & Finance,Credit Card,0
+2024-04-25,Swiggy Instamart,831.63,Groceries,Cash,0
+2024-06-29,Water tax,2662.3,Bills & Utilities,Debit Card,0
+2024-02-05,Nykaa skincare,2452.41,Personal Care,UPI,0
+2023-07-25,Metro card recharge,1503.9,Transport,UPI,0
+2023-01-01,BYJU's fee,6634.24,Education,Cash,0
+2023-04-15,Practo consultation,3860.97,Health,UPI,0
+2023-04-02,Ajio fashion,1323.47,Shopping,UPI,0
+2024-05-14,Spotify premium (unusual),4214.41,Entertainment,UPI,1
+2023-04-11,Axis Bank credit card bill,19916.43,EMI & Finance,UPI,0
+2023-11-04,Dunzo grocery,1277.99,Groceries,Credit Card,0
+2024-05-26,Nykaa beauty,6212.22,Shopping,UPI,0
+2023-12-10,Swiggy order,414.2,Food,Credit Card,0
+2023-02-10,Reliance Digital,1194.08,Shopping,UPI,0
+2024-12-24,Myntra personal care,799.02,Personal Care,UPI,0
+2024-08-16,Gaming - Steam,1318.15,Entertainment,Credit Card,0
+2024-12-13,Coursera subscription,3106.69,Education,Credit Card,0
+2023-06-04,SBI home loan EMI,19712.18,EMI & Finance,Credit Card,0
+2024-07-05,Nature's Basket,2204.86,Groceries,Credit Card,0
+2024-01-03,JioMart,1736.97,Groceries,Cash,0
+2023-08-16,Meesho purchase,2334.44,Shopping,UPI,0
+2024-03-08,JioMart,692.1,Groceries,UPI,0
+2023-11-30,Haldiram's,316.04,Food,Credit Card,0
+2024-05-17,Netflix subscription,1494.91,Entertainment,UPI,0
+2023-09-14,Jio recharge,315.04,Bills & Utilities,UPI,0
+2023-06-26,IRCTC train ticket,1616.33,Transport,UPI,0
+2023-12-07,Myntra clothes,7075.05,Shopping,UPI,0
+2024-01-27,Ola outstation,2113.35,Transport,Debit Card,0
+2023-02-14,Salon haircut,1225.8,Personal Care,Net Banking,0
+2023-12-17,BSNL broadband,955.73,Bills & Utilities,Debit Card,0
+2023-09-15,Haldiram's,487.9,Food,UPI,0
+2023-12-15,Blinkit grocery,1751.65,Groceries,UPI,0
+2023-07-25,Amazon India,3036.94,Shopping,UPI,0
+2024-07-20,DTH recharge - Dish TV,2007.76,Bills & Utilities,UPI,0
+2024-01-07,Yoga class fee,1272.65,Personal Care,UPI,0
+2023-06-01,RedBus ticket,292.69,Transport,Cash,0
+2024-03-21,DMart grocery,1115.33,Shopping,Debit Card,0
+2023-09-11,Laundry service - Urban Company,1814.44,Personal Care,Credit Card,0
+2023-03-24,IRCTC train ticket,2429.09,Transport,Cash,0
+2023-08-17,Hotstar subscription,608.04,Entertainment,UPI,0
+2023-05-26,SBI home loan EMI,2504.0,EMI & Finance,Credit Card,0
+2024-01-05,Piped gas bill,1189.18,Bills & Utilities,Debit Card,0
+2023-05-04,DTH recharge - Tata Sky,2683.44,Bills & Utilities,Credit Card,0
+2024-10-31,IRCTC train ticket,1488.99,Transport,UPI,0
+2024-10-04,Nykaa skincare,1583.46,Personal Care,UPI,0
+2023-04-25,Jio recharge,612.8,Bills & Utilities,UPI,0
+2023-04-22,Ola cab,1841.66,Transport,UPI,0
+2024-12-10,Vi recharge,2997.3,Bills & Utilities,UPI,0
+2023-03-24,Practo consultation,2552.31,Health,UPI,0
+2024-09-09,BESCOM electricity,2588.32,Bills & Utilities,Credit Card,0
+2023-02-12,KFC order,305.78,Food,Debit Card,0
+2024-02-20,Zepto delivery,1891.22,Groceries,Credit Card,0
+2024-08-21,LinkedIn Learning,7584.17,Education,Credit Card,0
+2024-10-17,Air India ticket,334.07,Transport,Cash,0
+2023-05-16,Manipal hospital,4188.85,Health,Debit Card,0
+2024-12-17,Spencer's retail,2418.17,Shopping,Credit Card,0
+2023-08-18,PVR Cinemas,1213.55,Entertainment,UPI,0
+2024-02-09,Jio recharge,2092.47,Bills & Utilities,Credit Card,0
+2024-02-28,Manipal hospital,3689.66,Health,Cash,0
+2023-08-29,Local dhaba,656.69,Food,UPI,0
+2023-11-10,Airtel recharge,538.94,Bills & Utilities,Credit Card,0
+2024-03-24,Flipkart order,1313.68,Shopping,Credit Card,0
+2024-11-26,Fastag recharge,2886.93,Transport,UPI,0
+2024-09-03,Ola cab,448.8,Transport,Credit Card,0
+2023-02-14,YouTube Premium,346.03,Entertainment,Credit Card,0
+2023-10-02,Petrol - HP pump,3274.4,Transport,UPI,0
+2024-04-28,College fee,6524.61,Education,UPI,0
+2023-06-01,Udemy course,10150.52,Education,Cash,0
+2024-05-20,Municipal tax,2583.05,Bills & Utilities,UPI,0
+2024-03-05,Nykaa beauty,1473.81,Shopping,UPI,0
+2024-05-01,SBI credit card payment,12425.51,EMI & Finance,UPI,0
+2023-10-17,LinkedIn Learning,9342.18,Education,UPI,0
+2023-02-26,PVR Cinemas,1358.34,Entertainment,UPI,0
+2023-03-10,DMart grocery,2211.51,Shopping,Net Banking,0
+2023-11-26,Coaching institute fee,7729.52,Education,UPI,0
+2024-04-23,Sony LIV,969.2,Entertainment,UPI,0
+2023-09-03,SIP - Groww,22473.5,EMI & Finance,Cash,0
+2023-11-17,Stationery,2527.9,Education,UPI,0
+2023-11-21,Myntra clothes,2055.66,Shopping,UPI,0
+2024-09-27,Stationery,6311.84,Education,UPI,0
+2023-10-23,Rapido bike,1517.63,Transport,Credit Card,0
+2024-12-29,Fortis hospital,3108.43,Health,Credit Card,0
+2024-03-28,HDFC Life insurance,14412.37,EMI & Finance,Debit Card,0
+2024-06-13,INOX movies,1177.98,Entertainment,Debit Card,0
+2023-04-28,Laundry service - Urban Company,672.51,Personal Care,UPI,0
+2023-06-11,Practo consultation,2322.37,Health,Credit Card,0
+2023-11-01,Apollo pharmacy,508.12,Health,Net Banking,0
+2024-09-16,BlinkIt vegetables,2114.03,Groceries,Net Banking,0
+2023-03-14,Blinkit grocery,2730.45,Groceries,Net Banking,0
+2024-02-11,Netflix subscription,1073.57,Entertainment,Debit Card,0
+2024-12-30,McDonald's,737.48,Food,Debit Card,0
+2024-09-03,PVR Cinemas,254.31,Entertainment,Net Banking,0
+2023-06-11,Flipkart order,7723.25,Shopping,Cash,0
+2024-08-27,Croma electronics,7725.63,Shopping,UPI,0
+2023-09-16,Manipal hospital,781.98,Health,UPI,0
+2024-05-16,Axis Bank credit card bill,19513.89,EMI & Finance,Credit Card,0
+2024-09-05,Petrol - Indian Oil,3396.24,Transport,UPI,0
+2023-08-16,Sony LIV,305.44,Entertainment,UPI,0
+2023-07-03,IndiGo flight,289.41,Transport,UPI,0
+2024-08-02,SBI credit card payment,2140.43,EMI & Finance,Net Banking,0
+2024-09-18,Laundry service - Urban Company,1994.91,Personal Care,Credit Card,0
+2023-12-24,Starbucks,130.53,Food,Debit Card,0
+2023-12-18,Ajio fashion,2397.7,Shopping,UPI,0
+2023-02-13,Zee5 subscription,108.28,Entertainment,Net Banking,0
+2024-07-01,Starbucks,192.58,Food,UPI,0
+2024-06-28,Nykaa beauty,6487.46,Shopping,Credit Card,0
+2023-02-12,Water tax,1912.11,Bills & Utilities,UPI,0
+2024-09-02,Fortis hospital,4258.22,Health,Debit Card,0
+2023-03-18,Petrol - Indian Oil,2658.23,Transport,Net Banking,0
+2023-02-15,Zee5 subscription,721.92,Entertainment,UPI,0
+2024-12-25,Netflix subscription,1288.93,Entertainment,UPI,0
+2023-04-28,SBI home loan EMI,3695.82,EMI & Finance,UPI,0
+2024-06-22,Gym membership,1500.51,Personal Care,Cash,0
+2024-08-12,Big Bazaar,7949.17,Shopping,UPI,0
+2024-10-13,Nykaa skincare,2192.84,Personal Care,Credit Card,0
+2024-02-12,Air India ticket,3804.77,Transport,UPI,0
+2023-09-29,Fortis hospital,1730.01,Health,UPI,0
+2024-05-17,LIC premium,15216.73,EMI & Finance,Credit Card,0
+2023-08-01,SBI credit card payment,14927.24,EMI & Finance,UPI,0
+2024-10-13,Society maintenance,1542.26,Bills & Utilities,UPI,0
+2024-05-18,LIC premium,22531.45,EMI & Finance,UPI,0
+2024-02-06,JioMart,990.27,Groceries,Debit Card,0
+2024-07-08,Practo consultation,546.02,Health,Cash,0
+2024-03-02,Croma electronics,7334.98,Shopping,Credit Card,0
+2024-09-27,Udemy course,688.0,Education,UPI,0
+2024-03-21,Society maintenance,2821.34,Bills & Utilities,Credit Card,0
+2023-12-01,Thyrocare test,3673.23,Health,Credit Card,0
+2023-04-01,Sony LIV,208.61,Entertainment,Net Banking,0
+2023-04-21,Lifestyle store,1502.97,Shopping,UPI,0
+2023-04-21,Unacademy Plus,2743.59,Education,UPI,0
+2024-07-15,JioMart,1707.31,Groceries,Debit Card,0
+2024-10-06,Flipkart order,1880.65,Shopping,UPI,0
+2023-05-14,Salon haircut,765.46,Personal Care,Cash,0
+2024-07-25,Rapido bike,2220.9,Transport,UPI,0
+2023-02-23,Dominos Pizza (unusual),3122.67,Food,Credit Card,1
+2024-11-04,YouTube Premium,979.33,Entertainment,UPI,0
+2024-11-03,Yoga class fee,2312.17,Personal Care,Net Banking,0
+2023-02-13,Swiggy order,460.0,Food,UPI,0
+2024-08-11,Big Bazaar,3230.01,Shopping,Credit Card,0
+2023-06-28,Lifestyle store,5734.6,Shopping,Debit Card,0
+2024-02-15,Netflix subscription (unusual),4201.73,Entertainment,UPI,1
+2023-01-12,Salon haircut,2268.6,Personal Care,Credit Card,0
+2024-05-05,Netflix subscription (unusual),5010.67,Entertainment,UPI,1
+2023-07-05,DTH recharge - Dish TV,2659.69,Bills & Utilities,Debit Card,0
+2024-08-14,BigBasket order,2171.07,Groceries,Debit Card,0
+2024-04-21,Coursera subscription,14618.39,Education,Debit Card,0
+2024-12-08,Books - Amazon,8633.15,Education,UPI,0
+2024-01-05,Axis Bank credit card bill,2984.59,EMI & Finance,UPI,0
+2024-03-09,IndiGo flight,1623.51,Transport,Credit Card,0
+2024-07-23,Piped gas bill,2498.75,Bills & Utilities,Debit Card,0
+2024-11-21,Nykaa skincare,1659.61,Personal Care,Net Banking,0
+2024-12-18,College fee,6579.93,Education,Net Banking,0
+2023-08-01,Gaming - Steam,1215.22,Entertainment,Debit Card,0
+2023-05-28,Udemy course,9663.35,Education,Credit Card,0
+2024-10-23,Coaching institute fee,6469.53,Education,UPI,0
+2023-04-13,Myntra personal care,2163.91,Personal Care,UPI,0
+2024-10-16,BookMyShow movie,793.8,Entertainment,Net Banking,0
+2023-05-15,LIC premium,8431.48,EMI & Finance,UPI,0
+2023-12-04,INOX movies,269.95,Entertainment,Net Banking,0
+2023-08-02,Unacademy Plus,7231.13,Education,Credit Card,0
+2024-02-25,YouTube Premium,394.2,Entertainment,UPI,0
+2024-04-13,Myntra clothes,4145.13,Shopping,UPI,0
+2023-08-27,Beauty parlour,1121.17,Personal Care,UPI,0
+2023-04-13,Zomato delivery,542.9,Food,Debit Card,0
+2024-10-01,INOX movies,1312.75,Entertainment,UPI,0
+2024-12-31,Swiggy Instamart,2415.31,Groceries,Cash,0
+2023-03-12,1mg order,3243.72,Health,Credit Card,0
+2024-04-29,MedPlus medicine,568.21,Health,Cash,0
+2024-02-20,Mutual fund SIP - Zerodha,15217.6,EMI & Finance,Credit Card,0
+2024-01-19,Gym membership (unusual),9191.87,Personal Care,UPI,1
+2024-06-17,Kotak credit card,9890.53,EMI & Finance,Debit Card,0
+2024-08-22,YouTube Premium,759.56,Entertainment,Net Banking,0
+2023-04-10,Society maintenance,2445.32,Bills & Utilities,UPI,0
+2024-12-29,Lifestyle store,6955.41,Shopping,UPI,0
+2024-07-04,Spencer's retail,6910.24,Shopping,UPI,0
+2023-07-10,ICICI personal loan EMI,18815.74,EMI & Finance,Credit Card,0
+2024-12-23,More supermarket,274.39,Groceries,Debit Card,0
+2024-10-21,DTH recharge - Dish TV,2727.71,Bills & Utilities,Credit Card,0
+2024-08-13,Municipal tax,410.78,Bills & Utilities,Debit Card,0
+2023-10-09,PVR Cinemas,755.96,Entertainment,Credit Card,0
+2023-10-03,JioMart,1995.03,Groceries,Credit Card,0
+2023-11-16,IndiGo flight,1312.07,Transport,Credit Card,0
+2024-12-18,Beauty parlour,1914.31,Personal Care,Credit Card,0
+2023-07-31,Society maintenance,1286.64,Bills & Utilities,Credit Card,0
+2023-01-28,Water tax,2045.63,Bills & Utilities,UPI,0
+2024-05-17,Unacademy Plus,10513.84,Education,Credit Card,0
+2023-08-05,Thyrocare test,3263.22,Health,UPI,0
+2024-06-01,Apollo pharmacy,246.01,Health,UPI,0
+2024-09-25,Vi recharge,956.38,Bills & Utilities,Debit Card,0
+2023-08-14,YouTube Premium,333.32,Entertainment,Credit Card,0
+2023-12-11,YouTube Premium,1159.43,Entertainment,Credit Card,0
+2023-03-02,Ajio fashion,7626.88,Shopping,Credit Card,0
+2024-10-20,ICICI personal loan EMI,3019.72,EMI & Finance,Credit Card,0
+2024-10-31,Blinkit grocery,255.1,Groceries,UPI,0
+2023-06-24,Gym membership,1831.36,Personal Care,Credit Card,0
+2023-06-18,LinkedIn Learning,5921.41,Education,UPI,0
+2023-11-13,BSNL broadband,795.37,Bills & Utilities,Debit Card,0
+2024-06-30,College fee,2314.97,Education,UPI,0
+2024-05-09,Coursera subscription,5400.28,Education,Cash,0
+2024-10-19,Kotak credit card,19557.29,EMI & Finance,UPI,0
+2023-04-08,Diagnostic lab - SRL,1706.84,Health,UPI,0
+2024-03-10,Haldiram's,171.37,Food,UPI,0
+2023-10-26,Fastag recharge,3753.04,Transport,UPI,0
+2024-06-02,Thyrocare test,122.79,Health,UPI,0
+2024-01-06,Coursera subscription,11312.15,Education,UPI,0
+2023-10-25,Zomato delivery,990.76,Food,Net Banking,0
+2023-12-05,Hotstar subscription,748.62,Entertainment,Debit Card,0
+2024-03-26,Mutual fund SIP - Zerodha,10737.47,EMI & Finance,Net Banking,0
+2023-10-30,DTH recharge - Dish TV,587.47,Bills & Utilities,Net Banking,0
+2024-12-08,GeeksForGeeks premium,9200.11,Education,Credit Card,0
+2024-11-25,Amazon India,5893.14,Shopping,Credit Card,0
+2024-12-01,Spotify premium,1141.89,Entertainment,UPI,0
+2024-02-22,Reliance Digital,3700.98,Shopping,Credit Card,0
+2024-07-06,Air India ticket,2984.3,Transport,Net Banking,0
+2023-05-21,Uber ride,1444.41,Transport,Net Banking,0
+2023-12-10,RedBus ticket,3031.61,Transport,Debit Card,0
+2024-11-28,Coaching institute fee,8420.96,Education,Credit Card,0
+2024-11-25,IRCTC train ticket,1963.12,Transport,UPI,0
+2024-08-08,Metro card recharge,172.15,Transport,UPI,0
+2023-08-30,Mutual fund SIP - Zerodha,18956.44,EMI & Finance,Debit Card,0
+2023-11-16,Haldiram's,353.54,Food,UPI,0
+2023-11-29,Society maintenance,2289.15,Bills & Utilities,Credit Card,0
+2023-11-29,Barbeque Nation,234.65,Food,UPI,0
+2024-05-02,Cult.fit subscription,1098.93,Personal Care,Debit Card,0
+2023-03-21,Netflix subscription,416.39,Entertainment,UPI,0
+2023-02-15,Manipal hospital,907.71,Health,UPI,0
+2024-07-10,Coursera subscription,8804.35,Education,UPI,0
+2023-08-27,Haldiram's,1093.81,Food,UPI,0
+2024-05-01,Nature's Basket,1437.97,Groceries,Credit Card,0
+2023-11-07,Ola outstation,1901.13,Transport,Cash,0
+2023-05-03,Beauty parlour,1233.33,Personal Care,UPI,0
+2023-07-12,Hotstar subscription,1208.47,Entertainment,UPI,0
+2023-06-03,Municipal tax,335.9,Bills & Utilities,Credit Card,0
+2023-11-02,LinkedIn Learning,2271.05,Education,UPI,0
+2024-01-12,Thyrocare test,1374.77,Health,UPI,0
+2023-08-31,HDFC car loan EMI,12098.61,EMI & Finance,Cash,0
+2024-03-29,SIP - Groww,5638.06,EMI & Finance,Cash,0
+2024-02-22,Zepto delivery,1035.64,Groceries,UPI,0
+2024-08-12,BSNL broadband,501.38,Bills & Utilities,Cash,0
+2023-09-27,Dunzo grocery,2643.21,Groceries,UPI,0
+2023-07-30,Laundry service - Urban Company,1158.13,Personal Care,UPI,0
+2023-11-30,SBI home loan EMI,16576.88,EMI & Finance,Net Banking,0
+2023-03-29,Municipal tax,2329.03,Bills & Utilities,Credit Card,0
+2024-07-04,Term insurance premium,3893.95,EMI & Finance,UPI,0
+2024-10-21,RedBus ticket,3269.91,Transport,Net Banking,0
+2024-06-08,Zee5 subscription,718.3,Entertainment,UPI,0
+2024-02-17,Ola cab,3842.94,Transport,UPI,0
+2023-09-29,Diagnostic lab - SRL,3637.99,Health,Debit Card,0
+2024-05-17,Spotify premium,455.28,Entertainment,Credit Card,0
+2023-05-12,Air India ticket,2122.96,Transport,Credit Card,0
+2024-11-23,Rapido bike,3405.97,Transport,UPI,0
+2023-10-03,DTH recharge - Dish TV,1662.27,Bills & Utilities,Debit Card,0
+2024-10-31,Unacademy Plus,14851.75,Education,UPI,0
+2023-05-16,More supermarket,975.88,Groceries,UPI,0
+2024-09-20,Netmeds delivery,4209.51,Health,UPI,0
+2024-01-05,1mg order,3355.42,Health,UPI,0
+2023-06-14,Uber ride,1985.28,Transport,Debit Card,0
+2024-04-06,Meesho purchase,1316.09,Shopping,UPI,0
+2023-02-25,INOX movies,690.87,Entertainment,Credit Card,0
+2024-05-15,Netmeds delivery,266.56,Health,UPI,0
+2023-02-27,Unacademy Plus,10426.91,Education,Debit Card,0
+2024-09-18,Dominos Pizza,754.68,Food,Net Banking,0
+2023-01-22,GeeksForGeeks premium,10717.12,Education,UPI,0
+2023-11-15,Swiggy Instamart,372.77,Groceries,Debit Card,0
+2024-01-21,Gaming - Steam,271.91,Entertainment,Cash,0
+2023-12-14,Nykaa skincare,1029.36,Personal Care,Net Banking,0
+2023-10-18,Salon haircut,2208.42,Personal Care,Debit Card,0
+2023-12-21,Books - Amazon,12438.73,Education,UPI,0
+2023-10-22,YouTube Premium,906.16,Entertainment,Debit Card,0
+2024-05-14,Books - Amazon,14335.02,Education,Credit Card,0
+2023-11-06,IRCTC train ticket,2524.87,Transport,UPI,0
+2023-08-25,BMTC bus pass,4324.61,Transport,UPI,0
+2024-02-01,Meesho purchase,7437.52,Shopping,UPI,0
+2024-07-12,Doctor consultation fee,691.93,Health,Credit Card,0
+2024-03-02,Manipal hospital,3476.19,Health,Cash,0
+2024-08-05,Vi recharge,1308.44,Bills & Utilities,UPI,0
+2024-12-02,Laundry service - Urban Company,1404.91,Personal Care,Net Banking,0
+2024-06-09,McDonald's,200.76,Food,Debit Card,0
+2024-08-28,Nature's Basket,1387.61,Groceries,UPI,0
+2023-07-01,Mutual fund SIP - Zerodha,6633.68,EMI & Finance,UPI,0
+2023-04-08,Municipal tax,3452.11,Bills & Utilities,Credit Card,0
+2023-02-25,Doctor consultation fee,2175.54,Health,UPI,0
+2023-08-14,Myntra personal care,1364.64,Personal Care,UPI,0
+2023-01-09,Cult.fit subscription,227.4,Personal Care,Credit Card,0
+2023-05-05,BookMyShow movie,879.93,Entertainment,Net Banking,0
+2024-01-04,Air India ticket,3363.44,Transport,UPI,0
+2024-10-24,Piped gas bill,382.14,Bills & Utilities,Cash,0
+2024-12-31,Meesho purchase,5851.65,Shopping,UPI,0
+2023-11-24,RedBus ticket,1321.49,Transport,UPI,0
+2023-12-14,Local dhaba,987.65,Food,Debit Card,0
+2024-11-15,Cafe Coffee Day,117.88,Food,Debit Card,0
+2024-02-09,Amazon Prime (unusual),3900.96,Entertainment,UPI,1
+2024-07-06,BigBasket order,1722.04,Groceries,Credit Card,0
+2024-10-11,Hotstar subscription,983.08,Entertainment,UPI,0
+2024-08-09,Diagnostic lab - SRL,3466.63,Health,Cash,0
+2024-02-07,College fee,3770.95,Education,UPI,0
+2023-03-07,Air India ticket,2769.96,Transport,Debit Card,0
+2023-09-11,Swiggy Instamart,988.42,Groceries,UPI,0
+2024-02-07,Metro card recharge,2768.29,Transport,UPI,0
+2024-07-19,Big Bazaar,481.02,Shopping,UPI,0
+2024-11-25,Metro card recharge,2964.63,Transport,UPI,0
+2024-01-24,Fastag recharge,3672.6,Transport,Debit Card,0
+2023-09-18,BigBasket order,1975.76,Groceries,Credit Card,0
+2023-08-26,Dominos Pizza,877.05,Food,UPI,0
+2024-01-15,SIP - Groww,3818.62,EMI & Finance,UPI,0
+2023-06-08,LinkedIn Learning,8566.68,Education,Net Banking,0
+2024-08-01,MedPlus medicine,1927.95,Health,UPI,0
+2024-02-19,Dominos Pizza,814.5,Food,UPI,0
+2024-12-27,Ola cab (unusual),15291.41,Transport,UPI,1
+2024-12-18,Beauty parlour (unusual),11651.04,Personal Care,UPI,1
+2024-10-29,Kotak credit card,8006.38,EMI & Finance,Debit Card,0
+2023-04-06,Mutual fund SIP - Zerodha,6286.18,EMI & Finance,Credit Card,0
+2023-05-29,IndiGo flight,2780.8,Transport,UPI,0
+2024-06-23,Jio recharge,1875.38,Bills & Utilities,Credit Card,0
+2023-10-30,Airtel recharge,2969.96,Bills & Utilities,Credit Card,0
+2024-01-13,Zee5 subscription,519.01,Entertainment,Debit Card,0
+2024-08-31,Fastag recharge,186.01,Transport,UPI,0
+2023-07-26,Airtel recharge,570.36,Bills & Utilities,Debit Card,0
+2023-12-16,Burger King,425.93,Food,Cash,0
+2024-07-28,Fastag recharge,1090.51,Transport,UPI,0
+2023-02-23,Subway,797.88,Food,Cash,0
+2023-12-01,BookMyShow movie,615.48,Entertainment,UPI,0
+2023-10-17,Amazon Prime,1146.7,Entertainment,Net Banking,0
+2024-11-17,Coursera subscription,866.45,Education,UPI,0
+2023-07-23,Manipal hospital,1311.09,Health,Cash,0
+2023-07-18,GeeksForGeeks premium,4603.48,Education,UPI,0
+2023-01-13,Fortis hospital,4127.12,Health,Debit Card,0
+2023-04-19,Laundry service - Urban Company,1440.22,Personal Care,Credit Card,0
+2023-11-17,Fortis hospital,4787.84,Health,Cash,0
+2023-11-26,IndiGo flight,2975.97,Transport,Credit Card,0
+2023-10-23,Ajio fashion,1968.9,Shopping,UPI,0
+2024-12-28,Stationery,6432.45,Education,UPI,0
+2024-12-28,Hotstar subscription,193.11,Entertainment,UPI,0
+2024-10-19,YouTube Premium,1352.72,Entertainment,UPI,0
+2024-02-16,HDFC car loan EMI,2070.95,EMI & Finance,Net Banking,0
+2024-06-25,Society maintenance,2910.43,Bills & Utilities,UPI,0
+2024-04-09,GeeksForGeeks premium,4167.36,Education,Credit Card,0
+2023-10-03,1mg order,2725.93,Health,UPI,0
+2023-01-09,RedBus ticket,2356.01,Transport,UPI,0
+2023-12-24,Petrol - HP pump,2319.29,Transport,Net Banking,0
+2023-07-26,SBI credit card payment,20840.7,EMI & Finance,UPI,0
+2024-03-31,Zomato delivery,598.22,Food,Cash,0
+2023-07-28,Ajio fashion,852.06,Shopping,UPI,0
+2024-07-14,Amazon Prime,551.33,Entertainment,UPI,0
+2024-06-14,YouTube Premium,114.01,Entertainment,Net Banking,0
+2023-09-17,Air India ticket,2990.81,Transport,Credit Card,0
+2024-12-12,Lifestyle store,4202.85,Shopping,Credit Card,0
+2023-08-13,Local kirana store,1129.97,Groceries,UPI,0
+2024-01-05,PVR Cinemas,754.75,Entertainment,Credit Card,0
+2024-04-10,Zee5 subscription,1402.37,Entertainment,Credit Card,0
+2024-11-05,PPF deposit,12408.25,EMI & Finance,UPI,0
+2024-05-08,BMTC bus pass,2048.95,Transport,Cash,0
+2023-06-22,Swiggy order,586.3,Food,UPI,0
+2023-10-17,IRCTC train ticket,2180.0,Transport,Debit Card,0
+2023-08-12,DTH recharge - Tata Sky,2258.9,Bills & Utilities,UPI,0
+2023-04-02,1mg order,2440.73,Health,UPI,0
+2023-12-15,College fee,5908.71,Education,UPI,0
+2024-04-25,Swiggy order,800.61,Food,UPI,0
+2024-03-26,Stationery,5813.71,Education,Credit Card,0
+2023-10-03,BESCOM electricity,2339.91,Bills & Utilities,Credit Card,0
+2024-12-02,Gym membership,1298.32,Personal Care,Credit Card,0
+2023-08-18,Cafe Coffee Day,462.75,Food,UPI,0
+2023-08-24,1mg order,733.01,Health,Credit Card,0
+2023-12-23,Meesho purchase,6151.02,Shopping,Cash,0
+2023-10-13,Big Bazaar,3062.21,Shopping,UPI,0
+2024-05-12,Kotak credit card,24793.46,EMI & Finance,UPI,0
+2024-09-03,PVR Cinemas,1027.54,Entertainment,Credit Card,0
+2024-07-25,Metro card recharge,1037.9,Transport,Debit Card,0
+2023-01-08,Ola cab,321.7,Transport,Debit Card,0
+2023-05-02,Myntra clothes,3025.34,Shopping,Debit Card,0
+2024-03-28,Amazon Prime,1048.33,Entertainment,UPI,0
+2024-08-04,Piped gas bill,777.15,Bills & Utilities,UPI,0
+2024-07-18,Swiggy Instamart,1369.04,Groceries,Credit Card,0
+2023-11-18,Yoga class fee,2343.3,Personal Care,UPI,0
+2024-04-09,McDonald's,176.56,Food,UPI,0
+2024-10-25,Thyrocare test,1647.67,Health,UPI,0
+2024-03-02,Uber ride,3493.16,Transport,UPI,0
+2023-06-06,Spotify premium,129.57,Entertainment,UPI,0
+2023-11-24,PVR Cinemas,1234.53,Entertainment,Cash,0
+2023-10-01,BlinkIt vegetables,1650.4,Groceries,Debit Card,0
+2024-08-10,Unacademy Plus,4666.66,Education,UPI,0
+2023-02-03,YouTube Premium,291.66,Entertainment,UPI,0
+2023-06-15,BlinkIt vegetables,2545.95,Groceries,UPI,0
+2024-08-02,Apollo pharmacy,4963.12,Health,UPI,0
+2023-12-19,College fee,10962.49,Education,UPI,0
+2024-09-09,Petrol - HP pump,1805.19,Transport,UPI,0
+2023-01-21,LinkedIn Learning,14011.75,Education,UPI,0
+2024-04-10,Flipkart order,2229.22,Shopping,UPI,0
+2023-09-25,Spencer's retail,3683.89,Shopping,Debit Card,0
+2023-05-15,Reliance Digital,349.17,Shopping,UPI,0
+2023-03-26,Cult.fit subscription,2015.33,Personal Care,Debit Card,0
+2023-11-19,Municipal tax,2059.58,Bills & Utilities,UPI,0
+2024-07-03,TATA Power bill,2316.89,Bills & Utilities,UPI,0
+2024-08-19,Meesho purchase,6676.84,Shopping,Credit Card,0
+2023-04-03,Lifestyle store,3619.65,Shopping,UPI,0
+2023-08-04,Haldiram's,943.55,Food,UPI,0
+2024-05-17,Swiggy Instamart,1087.34,Groceries,Credit Card,0
+2024-04-17,BookMyShow movie,201.55,Entertainment,Credit Card,0
+2024-01-30,LIC premium,15942.8,EMI & Finance,Credit Card,0
+2024-11-29,BlinkIt vegetables,1588.74,Groceries,Debit Card,0
+2023-12-27,Rapido bike,3158.25,Transport,Credit Card,0
+2023-11-05,Books - Amazon,2112.21,Education,UPI,0
+2023-12-19,HDFC car loan EMI,4133.15,EMI & Finance,UPI,0
+2024-05-23,Yoga class fee,2325.05,Personal Care,Credit Card,0
+2024-10-01,Salon haircut,1675.17,Personal Care,UPI,0
+2024-08-24,INOX movies,944.8,Entertainment,Cash,0
+2024-03-14,DMart grocery,4621.52,Shopping,Debit Card,0
+2023-06-18,LinkedIn Learning,3431.27,Education,Credit Card,0
+2023-08-15,Nature's Basket,1041.83,Groceries,UPI,0
+2024-02-21,Cult.fit subscription,2181.21,Personal Care,Net Banking,0
+2023-06-01,PPF deposit,24039.14,EMI & Finance,Credit Card,0
+2023-05-01,Salon haircut,2206.61,Personal Care,Credit Card,0
+2023-01-14,INOX movies (unusual),5040.45,Entertainment,Debit Card,1
+2023-11-05,HDFC Life insurance,14416.93,EMI & Finance,UPI,0
+2023-11-26,JioMart,1882.98,Groceries,UPI,0
+2024-01-13,Croma electronics,2607.66,Shopping,UPI,0
+2024-12-17,Swiggy order,824.36,Food,UPI,0
+2024-04-04,BigBasket order,942.11,Groceries,UPI,0
+2023-02-23,Zomato delivery,478.25,Food,UPI,0
+2023-05-18,Metro card recharge,2227.57,Transport,UPI,0
+2024-12-02,BSNL broadband,839.27,Bills & Utilities,Debit Card,0
+2024-03-28,Airtel recharge,3459.25,Bills & Utilities,Credit Card,0
+2024-02-16,PVR Cinemas,1229.5,Entertainment,Credit Card,0
+2023-03-23,Lifestyle store,3859.06,Shopping,Credit Card,0
+2024-10-31,Society maintenance,2585.51,Bills & Utilities,UPI,0
+2024-11-13,GeeksForGeeks premium,3890.65,Education,UPI,0
+2023-04-03,Manipal hospital,3788.92,Health,Credit Card,0
+2023-11-21,BSNL broadband,2496.66,Bills & Utilities,Credit Card,0
+2023-04-15,Rapido bike,1806.91,Transport,Credit Card,0
+2024-06-10,HDFC car loan EMI,24314.25,EMI & Finance,UPI,0
+2024-01-18,Spotify premium,105.54,Entertainment,Credit Card,0
+2024-10-22,BYJU's fee,7371.62,Education,UPI,0
+2024-11-17,LinkedIn Learning,10459.43,Education,Cash,0
+2023-12-17,Croma electronics,7139.87,Shopping,Credit Card,0
+2024-05-04,Metro card recharge,4485.98,Transport,Debit Card,0
+2024-07-08,Ola cab,1935.45,Transport,Debit Card,0
+2024-11-11,JioMart,1687.04,Groceries,Net Banking,0
+2023-02-28,Sony LIV,1387.06,Entertainment,Credit Card,0
+2023-07-08,BookMyShow movie,1166.53,Entertainment,Credit Card,0
+2023-11-24,Netmeds delivery,1676.83,Health,UPI,0
+2023-03-31,Spotify premium,1335.77,Entertainment,UPI,0
+2024-04-24,DTH recharge - Dish TV,3072.31,Bills & Utilities,Debit Card,0
+2024-09-09,Diagnostic lab - SRL,3762.83,Health,Credit Card,0
+2023-01-26,BYJU's fee,6199.47,Education,UPI,0
+2023-04-01,Laundry service - Urban Company,1821.28,Personal Care,Credit Card,0
+2023-12-19,Cafe Coffee Day,993.23,Food,Debit Card,0
+2023-11-25,PVR Cinemas,757.48,Entertainment,UPI,0
+2024-04-20,Local kirana store,2967.7,Groceries,UPI,0
+2024-11-02,Reliance Digital,7366.4,Shopping,Cash,0
+2024-06-23,MedPlus medicine,3935.39,Health,UPI,0
+2023-05-27,Spotify premium,1338.44,Entertainment,Credit Card,0
+2023-10-06,Swiggy Instamart,922.73,Groceries,Credit Card,0
+2024-03-20,Laundry service - Urban Company,1107.25,Personal Care,UPI,0
+2024-10-10,Nature's Basket,2370.49,Groceries,UPI,0
+2023-01-20,Myntra personal care,656.57,Personal Care,UPI,0
+2023-10-22,Manipal hospital,2439.5,Health,UPI,0
+2023-07-23,Gym membership,2276.43,Personal Care,Cash,0
+2024-03-03,PVR Cinemas,1014.99,Entertainment,Net Banking,0
+2024-10-07,Meesho purchase,6624.65,Shopping,UPI,0
+2023-03-22,Vi recharge,391.15,Bills & Utilities,Net Banking,0
+2024-03-04,PPF deposit,19883.15,EMI & Finance,Credit Card,0
+2024-01-14,Books - Amazon,3180.78,Education,Net Banking,0
+2024-01-25,GeeksForGeeks premium,14271.43,Education,UPI,0
+2023-08-24,Myntra personal care,2098.81,Personal Care,Net Banking,0
+2023-06-24,Gaming - Steam,856.48,Entertainment,UPI,0
+2023-03-20,KFC order,622.93,Food,UPI,0
+2024-04-28,ICICI personal loan EMI,5164.79,EMI & Finance,UPI,0
+2024-02-19,Term insurance premium,11806.5,EMI & Finance,UPI,0
+2023-06-11,1mg order,3315.54,Health,Credit Card,0
+2024-08-04,Nykaa skincare,2141.82,Personal Care,Debit Card,0
+2023-11-11,BMTC bus pass,1631.01,Transport,Debit Card,0
+2023-05-18,Ajio fashion,6877.46,Shopping,UPI,0
+2024-04-13,Myntra clothes,692.18,Shopping,Debit Card,0
+2024-10-27,Big Bazaar,2748.65,Shopping,Credit Card,0
+2024-08-26,Meesho purchase,1887.8,Shopping,UPI,0
+2023-07-22,Myntra personal care,1579.16,Personal Care,UPI,0
+2024-12-21,Diagnostic lab - SRL,677.03,Health,Debit Card,0
+2023-12-20,Cult.fit subscription,191.82,Personal Care,Credit Card,0
+2023-06-20,Zomato delivery,1117.53,Food,Debit Card,0
+2024-04-02,JioMart,341.78,Groceries,Credit Card,0
+2023-11-08,Dominos Pizza,247.1,Food,Credit Card,0
+2024-12-27,Netmeds delivery,4900.98,Health,Credit Card,0
+2023-01-10,Society maintenance,594.84,Bills & Utilities,Debit Card,0
+2024-12-28,PVR Cinemas,737.27,Entertainment,Credit Card,0
+2024-10-12,Unacademy Plus,6909.84,Education,UPI,0
+2024-05-25,Zomato delivery,906.33,Food,Debit Card,0
+2024-12-09,IRCTC train ticket,892.63,Transport,UPI,0
+2024-09-23,Hotstar subscription,183.69,Entertainment,Credit Card,0
+2024-04-24,Swiggy Instamart,1822.96,Groceries,Credit Card,0
+2024-10-02,Swiggy Instamart,1181.07,Groceries,Debit Card,0
+2023-05-04,HDFC car loan EMI,15836.8,EMI & Finance,UPI,0
+2024-05-28,IRCTC train ticket,4061.57,Transport,UPI,0
+2023-09-01,Gym membership,1881.79,Personal Care,Credit Card,0
+2024-05-13,YouTube Premium,722.95,Entertainment,Debit Card,0
+2023-10-27,Ola outstation,1951.59,Transport,Credit Card,0
+2024-07-04,Netmeds delivery,4416.78,Health,UPI,0
+2024-02-28,Yoga class fee,2172.92,Personal Care,UPI,0
+2024-01-31,LIC premium,22458.19,EMI & Finance,Debit Card,0
+2023-11-08,Pizza Hut,684.72,Food,UPI,0
+2024-03-10,Ola outstation (unusual),21086.47,Transport,Credit Card,1
+2024-10-27,MedPlus medicine,2794.26,Health,UPI,0
+2024-04-16,Burger King (unusual),3017.67,Food,UPI,1
+2023-10-24,Netmeds delivery,4282.06,Health,UPI,0
+2024-04-12,Zomato delivery,1120.96,Food,UPI,0
+2023-09-30,Thyrocare test,2648.36,Health,Cash,0
+2024-03-07,SBI home loan EMI,6007.66,EMI & Finance,UPI,0
+2023-10-08,HDFC car loan EMI,18185.93,EMI & Finance,Credit Card,0
+2023-10-10,Pizza Hut,1000.57,Food,Credit Card,0
+2023-04-27,DTH recharge - Tata Sky,2184.07,Bills & Utilities,UPI,0
+2023-05-15,Haldiram's,457.18,Food,Debit Card,0
+2023-04-26,Big Bazaar,3850.56,Shopping,UPI,0
+2024-12-06,Starbucks,438.56,Food,Credit Card,0
+2023-06-23,Cult.fit subscription,247.4,Personal Care,UPI,0
+2024-01-06,Coursera subscription,9867.36,Education,UPI,0
+2023-02-08,Gym membership,1384.37,Personal Care,Debit Card,0
+2024-04-05,DMart grocery,1049.99,Shopping,UPI,0
+2023-11-21,Fortis hospital,4134.36,Health,UPI,0
+2024-08-24,Coaching institute fee,9156.08,Education,Credit Card,0
+2024-07-07,Unacademy Plus,11851.78,Education,UPI,0
+2024-09-15,YouTube Premium,269.12,Entertainment,Cash,0
+2024-08-24,Netmeds delivery,4612.97,Health,Debit Card,0
+2023-03-14,MedPlus medicine,1281.3,Health,Credit Card,0
+2024-10-25,Petrol - Indian Oil,628.09,Transport,Credit Card,0
+2024-03-25,1mg order,3511.85,Health,Credit Card,0
+2024-08-11,Hotstar subscription,968.56,Entertainment,UPI,0
+2024-05-04,Manipal hospital,1431.98,Health,UPI,0
+2023-08-08,Big Bazaar,233.77,Shopping,Debit Card,0
+2024-01-25,Laundry service - Urban Company,1426.85,Personal Care,UPI,0
+2023-04-30,Petrol - HP pump,372.12,Transport,UPI,0
+2024-07-04,YouTube Premium,130.87,Entertainment,UPI,0
+2024-10-29,Udemy course,7021.14,Education,Debit Card,0
+2024-11-11,Meesho purchase,2616.11,Shopping,Debit Card,0
+2024-07-06,MedPlus medicine,3445.38,Health,Credit Card,0
+2023-05-25,Laundry service - Urban Company,905.21,Personal Care,UPI,0
+2024-12-22,SBI home loan EMI,24499.37,EMI & Finance,Credit Card,0
+2024-08-17,Petrol - HP pump,2902.39,Transport,Credit Card,0
+2024-06-16,KFC order,551.38,Food,UPI,0
+2024-09-06,GeeksForGeeks premium,2986.16,Education,Cash,0
+2024-10-14,YouTube Premium,462.13,Entertainment,UPI,0
+2023-11-16,Ajio fashion,1043.17,Shopping,UPI,0
+2024-11-07,Society maintenance,2256.67,Bills & Utilities,Debit Card,0
+2023-11-11,Flipkart order,1543.54,Shopping,UPI,0
+2024-10-02,Nykaa beauty,4855.67,Shopping,Debit Card,0
+2024-01-11,Dominos Pizza,155.3,Food,Debit Card,0
+2023-05-31,Dunkin Donuts,393.35,Food,Credit Card,0
+2023-10-15,Gym membership,170.33,Personal Care,Debit Card,0
+2024-03-20,Big Bazaar,7821.39,Shopping,Cash,0
+2023-01-11,Mutual fund SIP - Zerodha,17738.14,EMI & Finance,UPI,0
+2024-05-12,Society maintenance,430.37,Bills & Utilities,UPI,0
+2024-12-07,Mutual fund SIP - Zerodha,8880.55,EMI & Finance,Cash,0
+2023-04-03,Cult.fit subscription,421.32,Personal Care,Credit Card,0
+2024-05-15,Unacademy Plus,1741.39,Education,Debit Card,0
+2023-04-21,Sony LIV,489.73,Entertainment,Debit Card,0
+2024-03-02,Swiggy Instamart,2863.5,Groceries,UPI,0
+2023-10-20,Rapido bike,2610.16,Transport,UPI,0
+2023-08-03,Barbeque Nation,1166.98,Food,Net Banking,0
+2024-12-14,Airtel recharge,398.36,Bills & Utilities,UPI,0
+2024-10-23,Diagnostic lab - SRL,2241.82,Health,UPI,0
+2024-06-06,HDFC car loan EMI,15402.72,EMI & Finance,Credit Card,0
+2023-03-18,ICICI personal loan EMI,22422.42,EMI & Finance,UPI,0
+2023-05-03,BlinkIt vegetables,1968.54,Groceries,Debit Card,0
+2023-05-30,Gaming - Steam,737.55,Entertainment,Credit Card,0
+2024-03-18,Petrol - HP pump,2886.54,Transport,Cash,0
+2023-06-10,Fortis hospital,4128.4,Health,UPI,0
+2023-04-14,Dunzo grocery,2957.88,Groceries,Net Banking,0
+2023-03-08,Laundry service - Urban Company,256.87,Personal Care,UPI,0
+2023-05-14,Dunzo grocery,970.69,Groceries,UPI,0
+2024-01-06,DMart grocery,3788.76,Shopping,Credit Card,0
+2023-06-24,Swiggy order,1034.24,Food,Credit Card,0
+2024-09-04,Hotstar subscription,1495.43,Entertainment,Cash,0
+2023-06-04,Yoga class fee,2174.19,Personal Care,Credit Card,0
+2024-12-06,SBI credit card payment,5760.81,EMI & Finance,Net Banking,0
+2024-03-01,College fee,9614.28,Education,Credit Card,0
+2024-01-27,Salon haircut,1256.73,Personal Care,UPI,0
+2024-10-17,BookMyShow movie,1355.01,Entertainment,UPI,0
+2023-02-12,Beauty parlour,2010.95,Personal Care,Credit Card,0
+2023-12-29,McDonald's,726.69,Food,UPI,0
+2024-06-04,Books - Amazon,12662.83,Education,UPI,0
+2024-02-10,Hotstar subscription,1402.59,Entertainment,UPI,0
+2023-03-29,Nature's Basket,594.57,Groceries,Debit Card,0
+2024-09-25,SBI credit card payment,10298.35,EMI & Finance,UPI,0
+2023-08-30,Gym membership,2054.06,Personal Care,Debit Card,0
+2024-10-13,Gaming - Steam,1378.07,Entertainment,UPI,0
+2024-09-11,Dominos Pizza,579.22,Food,Debit Card,0
+2024-08-21,Hotstar subscription,962.5,Entertainment,UPI,0
+2023-05-20,Thyrocare test,595.06,Health,UPI,0
+2023-09-14,Yoga class fee,625.61,Personal Care,UPI,0
+2024-09-02,Starbucks,957.49,Food,UPI,0
+2023-10-14,Flipkart order,4894.89,Shopping,Net Banking,0
+2024-11-24,BlinkIt vegetables,2345.92,Groceries,Credit Card,0
+2024-09-27,Society maintenance,3467.1,Bills & Utilities,UPI,0
+2024-05-08,Unacademy Plus,547.96,Education,Cash,0
+2024-10-02,Fortis hospital,1180.9,Health,UPI,0
+2023-03-21,Doctor consultation fee,2979.63,Health,Net Banking,0
+2024-11-05,Beauty parlour,1953.15,Personal Care,UPI,0
+2023-09-23,Hotstar subscription,831.73,Entertainment,Debit Card,0
+2023-05-24,Diagnostic lab - SRL,1725.48,Health,Debit Card,0
+2024-03-14,Netflix subscription,875.04,Entertainment,UPI,0
+2023-09-20,More supermarket,2169.09,Groceries,Debit Card,0
+2023-08-05,Books - Amazon,3658.53,Education,UPI,0
+2024-06-22,HDFC car loan EMI,22106.38,EMI & Finance,UPI,0
+2024-05-15,KFC order,1075.74,Food,UPI,0
+2023-04-29,Amazon Prime,328.14,Entertainment,UPI,0
+2023-07-15,BigBasket order,1781.83,Groceries,Debit Card,0
+2023-02-17,Vi recharge,2861.66,Bills & Utilities,UPI,0
+2023-01-07,Myntra clothes,3924.14,Shopping,Cash,0
+2024-08-29,Ola cab,2185.85,Transport,Debit Card,0
+2024-09-12,BMTC bus pass,577.11,Transport,Debit Card,0
+2023-10-08,Hotstar subscription,884.24,Entertainment,Cash,0
+2023-02-05,Airtel recharge,1654.17,Bills & Utilities,UPI,0
+2024-07-04,Fortis hospital,831.17,Health,UPI,0
+2023-11-12,LinkedIn Learning,10048.05,Education,UPI,0
+2023-08-16,Ola cab,324.43,Transport,Debit Card,0
+2023-07-14,Sony LIV,511.9,Entertainment,Credit Card,0
+2023-12-31,SIP - Groww,11164.84,EMI & Finance,Credit Card,0
+2023-04-07,Unacademy Plus,11613.42,Education,UPI,0
+2024-03-01,Croma electronics,6032.33,Shopping,Credit Card,0
+2023-04-18,Laundry service - Urban Company,927.92,Personal Care,UPI,0
+2023-02-25,Haldiram's,1053.69,Food,UPI,0
+2024-06-11,Yoga class fee,555.6,Personal Care,UPI,0
+2024-07-16,Zee5 subscription,1139.27,Entertainment,Debit Card,0
+2023-09-21,BESCOM electricity,637.38,Bills & Utilities,UPI,0
+2023-12-15,Kotak credit card,7684.53,EMI & Finance,UPI,0
+2023-07-14,HDFC Life insurance,3951.84,EMI & Finance,Credit Card,0
+2023-02-23,Piped gas bill,3307.21,Bills & Utilities,Net Banking,0
+2024-05-08,More supermarket,2461.84,Groceries,Debit Card,0
+2024-11-16,GeeksForGeeks premium,10994.72,Education,UPI,0
+2023-01-08,Salon haircut,332.42,Personal Care,Credit Card,0
+2024-03-21,Zepto delivery,2277.34,Groceries,Debit Card,0
+2024-03-29,IndiGo flight,2053.01,Transport,Net Banking,0
+2023-04-04,McDonald's,1016.24,Food,UPI,0
+2024-12-09,BookMyShow movie,229.37,Entertainment,UPI,0
+2023-01-30,More supermarket,664.05,Groceries,Debit Card,0
+2024-11-26,Blinkit grocery,2700.05,Groceries,Debit Card,0
+2023-07-18,Mutual fund SIP - Zerodha,14572.15,EMI & Finance,Credit Card,0
+2023-03-22,ICICI personal loan EMI,8680.41,EMI & Finance,UPI,0
+2024-03-15,Ola outstation,4054.54,Transport,UPI,0
+2023-06-02,Gaming - Steam,817.22,Entertainment,Debit Card,0
+2023-04-18,Society maintenance,2198.59,Bills & Utilities,UPI,0
+2023-11-19,KFC order,1182.52,Food,UPI,0
+2024-03-15,Amazon India,4798.68,Shopping,UPI,0
+2023-03-20,BookMyShow movie,178.7,Entertainment,Debit Card,0
+2024-01-07,Flipkart order,3940.24,Shopping,UPI,0
+2023-02-08,Metro card recharge,1036.88,Transport,UPI,0
+2024-02-06,Dunkin Donuts,949.16,Food,Net Banking,0
+2023-11-04,Yoga class fee,1692.13,Personal Care,UPI,0
+2024-04-29,Lifestyle store,7497.01,Shopping,Credit Card,0
+2024-11-24,1mg order,480.17,Health,Debit Card,0
+2024-12-05,Coaching institute fee,9289.5,Education,Credit Card,0
+2023-04-19,SBI home loan EMI,21540.24,EMI & Finance,Debit Card,0
+2023-03-02,Zee5 subscription,1239.93,Entertainment,UPI,0
+2024-11-28,GeeksForGeeks premium,11731.79,Education,UPI,0
+2024-05-11,IRCTC train ticket,182.02,Transport,UPI,0
+2023-11-06,1mg order,4165.77,Health,UPI,0
+2023-12-10,Gym membership,1990.46,Personal Care,UPI,0
+2024-07-28,BookMyShow movie,717.57,Entertainment,Cash,0
+2023-07-22,DTH recharge - Tata Sky,2146.31,Bills & Utilities,Debit Card,0
+2024-12-14,Dunzo grocery,1758.1,Groceries,UPI,0
+2024-04-04,YouTube Premium,1155.98,Entertainment,Debit Card,0
+2023-02-15,DMart grocery,7206.36,Shopping,UPI,0
+2023-06-01,YouTube Premium,789.68,Entertainment,Debit Card,0
+2023-08-13,ICICI personal loan EMI,20771.4,EMI & Finance,UPI,0
+2023-03-24,BMTC bus pass,4018.97,Transport,UPI,0
+2024-02-24,Netmeds delivery,776.17,Health,UPI,0
+2023-06-04,Diagnostic lab - SRL,1561.94,Health,UPI,0
+2023-12-13,Local kirana store,2499.98,Groceries,UPI,0
+2024-09-08,Jio recharge,2599.37,Bills & Utilities,UPI,0
+2023-10-07,SIP - Groww,4046.41,EMI & Finance,Net Banking,0
+2024-12-11,Fortis hospital,1010.19,Health,Credit Card,0
+2024-09-20,Doctor consultation fee,2560.62,Health,Credit Card,0
+2024-12-28,Axis Bank credit card bill,9210.09,EMI & Finance,Credit Card,0
+2024-07-01,Gaming - Steam,271.46,Entertainment,UPI,0
+2023-01-20,Gaming - Steam,1168.58,Entertainment,UPI,0
+2024-11-14,Gym membership,777.9,Personal Care,Debit Card,0
+2023-02-14,Mutual fund SIP - Zerodha,20518.53,EMI & Finance,Debit Card,0
+2024-01-18,Spotify premium,1395.89,Entertainment,Cash,0
+2024-04-20,Blinkit grocery,944.95,Groceries,UPI,0
+2023-10-21,Zomato delivery,1184.47,Food,UPI,0
+2024-10-12,College fee,12766.04,Education,UPI,0
+2024-01-30,Gaming - Steam,100.91,Entertainment,Credit Card,0
+2024-08-07,Piped gas bill,205.16,Bills & Utilities,UPI,0
+2023-06-15,Fastag recharge (unusual),20692.77,Transport,UPI,1
+2023-01-17,Kotak credit card,15468.06,EMI & Finance,Debit Card,0
+2024-07-04,Laundry service - Urban Company,338.66,Personal Care,UPI,0
+2023-07-13,Thyrocare test,4873.31,Health,UPI,0
+2024-03-07,Gaming - Steam,1308.58,Entertainment,Credit Card,0
+2024-09-18,INOX movies,955.46,Entertainment,Debit Card,0
+2023-09-23,Zepto delivery,372.93,Groceries,Cash,0
+2024-12-17,Flipkart order,3291.46,Shopping,UPI,0
+2023-06-02,Petrol - HP pump,2942.94,Transport,Credit Card,0
+2023-06-01,Salon haircut,1353.45,Personal Care,UPI,0
+2023-10-03,Udemy course,3196.1,Education,UPI,0
+2023-10-15,Coursera subscription,3048.67,Education,Credit Card,0
+2024-08-28,Barbeque Nation,204.94,Food,UPI,0
+2024-01-08,Zomato delivery,1177.52,Food,Credit Card,0
+2024-10-11,Doctor consultation fee,4314.91,Health,Net Banking,0
+2024-09-15,KFC order,321.53,Food,UPI,0
+2024-07-03,Swiggy order,478.18,Food,UPI,0
+2024-03-04,Amazon Prime,1189.15,Entertainment,Credit Card,0
+2024-06-13,Society maintenance,2937.64,Bills & Utilities,Net Banking,0
+2023-08-26,KFC order,291.75,Food,UPI,0
+2023-11-09,Burger King,235.62,Food,Net Banking,0
+2023-11-08,Cult.fit subscription,1153.97,Personal Care,UPI,0
+2024-11-30,SBI credit card payment,6818.66,EMI & Finance,UPI,0
+2023-01-06,Rapido bike,3885.92,Transport,Credit Card,0
+2023-10-03,Salon haircut,2498.97,Personal Care,Credit Card,0
+2023-07-20,Hotstar subscription,927.96,Entertainment,UPI,0
+2024-01-16,SBI credit card payment,14651.87,EMI & Finance,Cash,0
+2024-08-14,KFC order,752.46,Food,UPI,0
+2024-08-15,Swiggy Instamart,1775.17,Groceries,UPI,0
+2023-07-22,Zomato delivery (unusual),4292.41,Food,UPI,1
+2024-11-18,Stationery,9847.78,Education,UPI,0
+2024-04-17,Ola outstation,1525.4,Transport,UPI,0
+2024-11-17,Starbucks,1151.42,Food,Credit Card,0
+2023-06-27,YouTube Premium,1322.78,Entertainment,UPI,0
+2023-05-12,Lifestyle store,4712.72,Shopping,Debit Card,0
+2023-09-19,Municipal tax,1071.99,Bills & Utilities,UPI,0
+2023-12-10,Dunzo grocery,1502.65,Groceries,Net Banking,0
+2023-12-15,Croma electronics,1854.53,Shopping,Debit Card,0
+2024-07-12,Unacademy Plus,2477.53,Education,UPI,0
+2024-06-01,Fortis hospital,922.05,Health,UPI,0
+2024-10-22,ICICI personal loan EMI,16881.0,EMI & Finance,UPI,0
+2023-09-14,Meesho purchase,6449.82,Shopping,UPI,0
+2024-03-19,INOX movies,224.6,Entertainment,Debit Card,0
+2023-10-14,Lifestyle store,5904.09,Shopping,Cash,0
+2024-09-01,BYJU's fee,8779.23,Education,UPI,0
+2024-11-24,Ola cab,3828.85,Transport,Credit Card,0
+2023-01-11,Society maintenance,2513.91,Bills & Utilities,UPI,0
+2023-04-14,Meesho purchase,367.64,Shopping,Debit Card,0
+2024-03-21,BESCOM electricity,1827.31,Bills & Utilities,UPI,0
+2024-11-19,Municipal tax,607.84,Bills & Utilities,UPI,0
+2023-09-27,Croma electronics,548.01,Shopping,UPI,0
+2023-01-19,Burger King,927.67,Food,Credit Card,0
+2024-05-08,Nykaa skincare,1924.78,Personal Care,Debit Card,0
+2024-10-27,BigBasket order,1058.25,Groceries,UPI,0
+2023-03-11,Nykaa beauty,4471.38,Shopping,Credit Card,0
+2023-07-14,Flipkart order,989.81,Shopping,UPI,0
+2024-12-10,Books - Amazon,6570.64,Education,Credit Card,0
+2024-10-29,Fortis hospital,4943.23,Health,Debit Card,0
+2023-01-10,HDFC Life insurance,16246.43,EMI & Finance,Net Banking,0
+2024-05-08,SBI home loan EMI,18045.78,EMI & Finance,UPI,0
+2024-03-16,BSNL broadband,1857.31,Bills & Utilities,Credit Card,0
+2023-02-08,Netmeds delivery,4696.64,Health,Credit Card,0
+2024-02-12,Ajio fashion,6040.09,Shopping,Cash,0
+2023-11-01,Hotstar subscription,1080.14,Entertainment,Debit Card,0
+2024-12-19,Salon haircut,1446.99,Personal Care,Debit Card,0
+2024-03-11,Local dhaba,901.49,Food,Credit Card,0
+2023-01-17,Pizza Hut,819.42,Food,Credit Card,0
+2023-08-09,Lifestyle store,3496.39,Shopping,UPI,0
+2024-02-16,Spencer's retail,4497.49,Shopping,UPI,0
+2024-12-19,Diagnostic lab - SRL,280.15,Health,Cash,0
+2023-02-08,DTH recharge - Tata Sky,1547.38,Bills & Utilities,UPI,0
+2024-04-17,Spencer's retail,6187.42,Shopping,UPI,0
+2024-08-25,Flipkart order,2994.29,Shopping,Debit Card,0
+2023-05-26,More supermarket,2731.04,Groceries,Net Banking,0
+2023-01-24,Municipal tax,1324.34,Bills & Utilities,Credit Card,0
+2024-06-10,Jio recharge,250.35,Bills & Utilities,Credit Card,0
+2023-11-02,Manipal hospital,4999.78,Health,Debit Card,0
+2023-02-19,Laundry service - Urban Company,2413.25,Personal Care,UPI,0
+2024-09-19,Yoga class fee,945.29,Personal Care,Net Banking,0
+2024-01-04,Laundry service - Urban Company,2419.1,Personal Care,Debit Card,0
+2023-10-28,KFC order (unusual),3897.53,Food,UPI,1
+2023-08-01,Hotstar subscription,668.52,Entertainment,Credit Card,0
+2024-11-09,Yoga class fee,1406.86,Personal Care,UPI,0
+2024-01-09,Laundry service - Urban Company,1830.84,Personal Care,UPI,0
+2023-01-01,BlinkIt vegetables,773.61,Groceries,Credit Card,0
+2023-11-07,Axis Bank credit card bill,4069.23,EMI & Finance,Credit Card,0
+2023-09-06,Amazon India,5002.28,Shopping,Credit Card,0
+2024-01-13,Diagnostic lab - SRL,3774.03,Health,Credit Card,0
+2024-07-01,Barbeque Nation (unusual),4274.94,Food,Debit Card,1
+2023-05-16,Udemy course,14809.8,Education,Cash,0
+2023-10-22,HDFC Life insurance,18042.83,EMI & Finance,UPI,0
+2023-03-30,DMart grocery,7767.06,Shopping,Net Banking,0
+2024-04-20,Mutual fund SIP - Zerodha,7091.45,EMI & Finance,UPI,0
+2023-03-09,Swiggy Instamart,603.21,Groceries,UPI,0
+2024-08-28,Diagnostic lab - SRL,2497.15,Health,Cash,0
+2023-02-21,Dominos Pizza,112.47,Food,Net Banking,0
+2024-07-20,Rapido bike,1226.87,Transport,Net Banking,0
+2023-04-28,Municipal tax,3040.57,Bills & Utilities,UPI,0
+2023-12-05,Coaching institute fee,6669.81,Education,Debit Card,0
+2024-08-31,LIC premium,20755.94,EMI & Finance,Net Banking,0
+2023-10-02,SBI credit card payment,22574.14,EMI & Finance,Cash,0
+2024-05-29,HDFC car loan EMI,17827.25,EMI & Finance,UPI,0
+2023-01-02,Gym membership,711.33,Personal Care,Debit Card,0
+2023-09-10,YouTube Premium,490.12,Entertainment,Debit Card,0
+2024-06-20,Meesho purchase,2852.9,Shopping,UPI,0
+2024-12-16,GeeksForGeeks premium,1514.06,Education,UPI,0
+2024-06-07,Nature's Basket,1756.38,Groceries,Credit Card,0
+2024-12-11,SIP - Groww,18015.25,EMI & Finance,Credit Card,0
+2023-12-03,Petrol - HP pump,1769.63,Transport,UPI,0
+2023-07-27,DTH recharge - Tata Sky,796.3,Bills & Utilities,Net Banking,0
+2023-06-26,Blinkit grocery,536.83,Groceries,UPI,0
+2023-06-18,Uber ride,1555.45,Transport,UPI,0
+2023-07-02,HDFC car loan EMI,3127.72,EMI & Finance,UPI,0
+2023-11-14,Nykaa skincare,1356.3,Personal Care,Credit Card,0
+2024-05-18,Water tax,1965.83,Bills & Utilities,Credit Card,0
+2024-02-04,Spencer's retail,1363.89,Shopping,Credit Card,0
+2023-04-22,1mg order,1513.03,Health,Cash,0
+2023-01-07,Metro card recharge,1386.26,Transport,Credit Card,0
+2023-11-03,Nature's Basket,1279.3,Groceries,UPI,0
+2023-11-04,PPF deposit,3493.6,EMI & Finance,Credit Card,0
+2023-04-21,Netmeds delivery,1407.35,Health,Debit Card,0
+2024-10-02,BYJU's fee,7861.38,Education,UPI,0
+2024-02-19,Doctor consultation fee,2431.55,Health,Credit Card,0
+2023-03-31,Hotstar subscription,1165.65,Entertainment,UPI,0
+2024-09-12,Lifestyle store,1740.78,Shopping,UPI,0
+2023-03-11,Coursera subscription,12844.47,Education,UPI,0
+2024-05-26,Air India ticket,2075.63,Transport,UPI,0
+2024-01-31,HDFC car loan EMI,9582.89,EMI & Finance,Credit Card,0
+2024-05-06,Metro card recharge,3716.34,Transport,Credit Card,0
+2023-09-26,PVR Cinemas,122.38,Entertainment,UPI,0
+2024-07-03,Cult.fit subscription,2037.11,Personal Care,Debit Card,0
+2024-05-07,Stationery,13700.17,Education,Credit Card,0
+2023-02-13,Practo consultation,4687.45,Health,UPI,0
+2024-10-12,Udemy course,6161.58,Education,UPI,0
+2024-07-07,Sony LIV,236.17,Entertainment,Credit Card,0
+2023-11-18,BookMyShow movie,176.51,Entertainment,Net Banking,0
+2024-03-26,Municipal tax,1799.17,Bills & Utilities,UPI,0
+2023-12-02,Big Bazaar,2491.38,Shopping,UPI,0
+2023-09-12,Books - Amazon,3247.18,Education,Credit Card,0
+2023-08-01,Gym membership,264.66,Personal Care,Debit Card,0
+2023-02-20,Practo consultation,139.68,Health,Net Banking,0
+2023-02-25,Meesho purchase,4706.51,Shopping,Debit Card,0
+2024-12-24,Lifestyle store,5919.45,Shopping,UPI,0
+2024-01-11,BigBasket order,1830.62,Groceries,UPI,0
+2024-08-13,Beauty parlour,1528.55,Personal Care,UPI,0
+2023-09-01,KFC order,543.53,Food,UPI,0
+2024-10-29,Dominos Pizza,429.07,Food,UPI,0
+2024-06-09,College fee,1036.75,Education,UPI,0
+2024-02-21,DTH recharge - Tata Sky,3031.14,Bills & Utilities,Cash,0
+2023-06-07,Airtel recharge,1454.0,Bills & Utilities,Debit Card,0
+2023-10-14,Air India ticket,2789.65,Transport,Cash,0
+2024-11-20,Jio recharge,2086.07,Bills & Utilities,UPI,0
+2024-08-07,ICICI personal loan EMI,11050.37,EMI & Finance,UPI,0
+2024-09-23,Vi recharge,2578.97,Bills & Utilities,UPI,0
+2024-05-18,INOX movies,341.78,Entertainment,UPI,0
+2023-04-06,Airtel recharge,3085.6,Bills & Utilities,Net Banking,0
+2024-03-21,Axis Bank credit card bill,20720.06,EMI & Finance,Credit Card,0
+2023-08-02,BlinkIt vegetables,2195.86,Groceries,UPI,0
+2024-10-09,BlinkIt vegetables,265.99,Groceries,UPI,0
+2023-01-10,Hotstar subscription,1400.55,Entertainment,Cash,0
+2024-04-01,Subway,189.42,Food,UPI,0
+2024-09-13,BESCOM electricity,893.6,Bills & Utilities,Debit Card,0
+2024-04-08,Airtel recharge,302.57,Bills & Utilities,UPI,0
+2024-10-17,Mutual fund SIP - Zerodha,11873.54,EMI & Finance,UPI,0
+2023-05-02,HDFC car loan EMI,14818.83,EMI & Finance,Cash,0
+2024-06-14,Blinkit grocery,223.85,Groceries,UPI,0
+2024-05-07,JioMart,1479.63,Groceries,UPI,0
+2023-06-24,Croma electronics,6599.33,Shopping,Debit Card,0
+2023-10-29,Dunzo grocery,1283.93,Groceries,UPI,0
+2024-11-24,BigBasket order,388.23,Groceries,Debit Card,0
+2024-03-06,Stationery,6528.73,Education,UPI,0
+2023-04-10,Local kirana store,2451.37,Groceries,UPI,0
+2023-04-28,DMart grocery,4936.53,Shopping,Debit Card,0
+2024-11-29,1mg order,1296.57,Health,UPI,0
+2023-03-01,INOX movies,365.05,Entertainment,UPI,0
+2024-04-04,Lifestyle store,3500.4,Shopping,UPI,0
+2023-02-22,Dunzo grocery,1590.42,Groceries,UPI,0
+2023-07-26,Croma electronics,4804.46,Shopping,Debit Card,0
+2024-09-08,SBI home loan EMI,19107.4,EMI & Finance,Credit Card,0
+2024-04-17,BMTC bus pass,4465.54,Transport,Net Banking,0
+2023-11-29,Nykaa skincare,907.35,Personal Care,UPI,0
+2023-07-18,Myntra clothes,1922.15,Shopping,Debit Card,0
+2024-01-25,Swiggy order,852.52,Food,UPI,0
+2024-12-25,Doctor consultation fee,3214.37,Health,Debit Card,0
+2023-03-13,Haldiram's,296.31,Food,UPI,0
+2024-01-29,Zomato delivery,943.49,Food,Credit Card,0
+2024-11-27,IRCTC train ticket,165.53,Transport,Credit Card,0
+2024-07-12,HDFC car loan EMI,23437.54,EMI & Finance,UPI,0
+2024-05-30,TATA Power bill,2433.86,Bills & Utilities,UPI,0
+2024-11-30,BlinkIt vegetables,916.87,Groceries,Cash,0
+2023-09-30,MedPlus medicine,2768.36,Health,Credit Card,0
+2024-03-30,Fortis hospital,3461.88,Health,UPI,0
+2024-05-04,Mutual fund SIP - Zerodha,7079.53,EMI & Finance,Cash,0
+2024-07-14,PVR Cinemas,941.3,Entertainment,UPI,0
+2023-04-15,Swiggy Instamart,242.07,Groceries,Debit Card,0
+2023-02-12,Doctor consultation fee,4812.64,Health,Credit Card,0
+2024-04-11,Local kirana store,1892.13,Groceries,Debit Card,0
+2023-07-10,Beauty parlour (unusual),6282.22,Personal Care,UPI,1
+2023-04-14,Beauty parlour,2319.83,Personal Care,Credit Card,0
+2023-09-26,More supermarket,2098.0,Groceries,UPI,0
+2024-07-26,INOX movies,1221.78,Entertainment,Credit Card,0
+2024-05-20,Water tax,3464.03,Bills & Utilities,Credit Card,0
+2023-12-29,Axis Bank credit card bill,17687.53,EMI & Finance,Credit Card,0
+2023-08-11,College fee,10166.53,Education,UPI,0
+2024-09-23,YouTube Premium,423.6,Entertainment,UPI,0
+2024-08-02,Big Bazaar,1294.89,Shopping,UPI,0
+2023-04-15,KFC order,764.03,Food,UPI,0
+2024-07-22,Meesho purchase,4392.78,Shopping,UPI,0
+2023-05-10,LIC premium,18677.27,EMI & Finance,Debit Card,0
+2024-11-09,Thyrocare test,601.33,Health,Credit Card,0
+2024-06-07,Water tax,803.48,Bills & Utilities,Debit Card,0
+2024-09-22,Amazon India,594.72,Shopping,Cash,0
+2023-05-06,SBI home loan EMI,11157.21,EMI & Finance,UPI,0
+2024-02-29,Yoga class fee,2018.87,Personal Care,UPI,0
+2023-02-01,MedPlus medicine,795.19,Health,Credit Card,0
+2024-05-29,RedBus ticket,3054.25,Transport,UPI,0
+2024-04-17,Salon haircut,301.47,Personal Care,UPI,0
+2024-01-17,Kotak credit card,13615.52,EMI & Finance,UPI,0
+2024-02-09,Dominos Pizza,1115.03,Food,UPI,0
+2023-05-10,Uber ride,1483.4,Transport,UPI,0
+2024-01-25,Salon haircut,1936.47,Personal Care,Credit Card,0
+2023-11-10,Subway (unusual),4221.89,Food,Debit Card,1
+2024-11-10,INOX movies,1022.05,Entertainment,UPI,0
+2023-06-19,Myntra clothes,5346.06,Shopping,Cash,0
+2024-08-15,Netmeds delivery,3160.4,Health,Cash,0
+2023-05-09,Beauty parlour,691.16,Personal Care,Credit Card,0
+2023-08-12,Stationery,11481.58,Education,Debit Card,0
+2024-08-08,BESCOM electricity,983.91,Bills & Utilities,UPI,0
+2023-02-04,Axis Bank credit card bill,18680.77,EMI & Finance,UPI,0
+2023-09-12,BESCOM electricity,977.1,Bills & Utilities,UPI,0
+2023-05-23,Ola cab,3349.9,Transport,UPI,0
+2023-02-26,Gym membership,1170.33,Personal Care,UPI,0
+2024-11-20,Term insurance premium,18048.68,EMI & Finance,UPI,0
+2023-11-28,JioMart,354.19,Groceries,Debit Card,0
+2024-01-04,Meesho purchase,4532.29,Shopping,Debit Card,0
+2023-07-02,SBI home loan EMI,4652.86,EMI & Finance,Cash,0
+2024-08-30,Flipkart order,1706.12,Shopping,Debit Card,0
+2023-10-30,Starbucks,773.48,Food,UPI,0
+2024-04-30,Netmeds delivery,1211.94,Health,Debit Card,0
+2023-09-12,Apollo pharmacy,697.61,Health,Debit Card,0
+2024-10-15,PPF deposit,18407.49,EMI & Finance,Credit Card,0
+2023-08-11,HDFC Life insurance,16834.75,EMI & Finance,UPI,0
+2024-09-05,Swiggy Instamart,1227.86,Groceries,UPI,0
+2024-12-31,Burger King,88.82,Food,Credit Card,0
+2024-07-12,Coaching institute fee,10644.46,Education,UPI,0
+2024-06-29,Society maintenance,1310.03,Bills & Utilities,Debit Card,0
+2023-07-29,BMTC bus pass,281.88,Transport,Cash,0
+2023-08-14,Uber ride,2262.29,Transport,Debit Card,0
+2024-04-10,Zee5 subscription,1145.95,Entertainment,UPI,0
+2023-06-12,Books - Amazon,12543.25,Education,Credit Card,0
+2024-08-04,Mutual fund SIP - Zerodha,2648.75,EMI & Finance,Debit Card,0
+2024-05-13,Nykaa skincare,1966.39,Personal Care,UPI,0
+2024-10-20,Kotak credit card,3158.07,EMI & Finance,UPI,0
+2023-12-24,Unacademy Plus,7835.33,Education,UPI,0
+2023-04-29,LinkedIn Learning,10567.52,Education,UPI,0
+2024-11-20,College fee,7053.69,Education,UPI,0
+2023-01-15,Diagnostic lab - SRL,1892.3,Health,Debit Card,0
+2023-08-25,PPF deposit,12436.14,EMI & Finance,UPI,0
+2023-11-06,Society maintenance,253.8,Bills & Utilities,UPI,0
+2023-11-08,Udemy course,12555.17,Education,Credit Card,0
+2023-10-16,Cafe Coffee Day,323.04,Food,UPI,0
+2024-09-12,Pizza Hut,1184.27,Food,Credit Card,0
+2024-02-29,SIP - Groww,20100.33,EMI & Finance,UPI,0
+2023-09-19,Apollo pharmacy,4557.97,Health,UPI,0
+2024-10-07,Petrol - HP pump,236.76,Transport,UPI,0
+2024-07-15,HDFC Life insurance,15647.22,EMI & Finance,Credit Card,0
+2023-02-16,Yoga class fee,1485.65,Personal Care,Debit Card,0
+2024-04-02,BlinkIt vegetables,2638.43,Groceries,UPI,0
+2024-05-05,Spotify premium,591.07,Entertainment,UPI,0
+2023-06-06,Doctor consultation fee,3359.03,Health,UPI,0
+2024-10-06,Udemy course,9590.53,Education,UPI,0
+2023-12-02,Netmeds delivery,4817.16,Health,Net Banking,0
+2023-12-06,Practo consultation,4216.54,Health,UPI,0
+2024-10-31,Society maintenance,1996.36,Bills & Utilities,UPI,0
+2023-03-18,Barbeque Nation,332.7,Food,Credit Card,0
+2023-07-25,Uber ride,367.5,Transport,UPI,0
+2024-01-22,Doctor consultation fee,4965.0,Health,UPI,0
+2024-03-22,ICICI personal loan EMI,16141.04,EMI & Finance,UPI,0
+2023-02-14,Stationery,7685.83,Education,Credit Card,0
+2024-04-01,Subway,425.03,Food,Debit Card,0
+2023-06-15,RedBus ticket,1072.48,Transport,Debit Card,0
+2024-07-18,Gaming - Steam,782.48,Entertainment,UPI,0
+2023-06-26,Manipal hospital,2902.91,Health,UPI,0
+2024-11-12,SIP - Groww,18250.86,EMI & Finance,UPI,0
+2023-02-10,Burger King,602.29,Food,Cash,0
+2024-03-09,Meesho purchase,6505.99,Shopping,UPI,0
+2024-08-12,DTH recharge - Dish TV,2493.36,Bills & Utilities,UPI,0
+2024-01-20,Rapido bike,1298.05,Transport,UPI,0
+2024-09-20,ICICI personal loan EMI,18265.21,EMI & Finance,Credit Card,0
+2023-01-30,Croma electronics,7272.99,Shopping,Credit Card,0
+2023-10-12,Gym membership,1500.24,Personal Care,UPI,0
+2024-02-01,Myntra personal care,1808.85,Personal Care,UPI,0
+2023-10-27,Amazon Prime,111.79,Entertainment,UPI,0
+2024-03-19,GeeksForGeeks premium,3138.47,Education,Cash,0
+2023-05-24,LinkedIn Learning,4122.86,Education,UPI,0
+2023-12-14,Laundry service - Urban Company,724.7,Personal Care,Credit Card,0
+2024-08-10,Hotstar subscription,620.19,Entertainment,Debit Card,0
+2023-09-02,BlinkIt vegetables,633.03,Groceries,UPI,0
+2023-04-01,Laundry service - Urban Company,1274.99,Personal Care,Debit Card,0
+2024-12-18,Stationery,13798.85,Education,UPI,0
+2024-12-11,Swiggy Instamart,2328.93,Groceries,Net Banking,0
+2024-07-16,Barbeque Nation,868.06,Food,Net Banking,0
+2023-02-12,Doctor consultation fee,747.97,Health,Net Banking,0
+2023-10-09,Netmeds delivery,806.96,Health,UPI,0
+2023-11-06,Swiggy order,364.1,Food,Credit Card,0
+2024-03-09,SBI credit card payment,22652.46,EMI & Finance,Credit Card,0
+2023-01-22,HDFC Life insurance,18460.44,EMI & Finance,Debit Card,0
+2024-03-07,Pizza Hut,240.01,Food,Debit Card,0
+2023-05-09,1mg order,1513.51,Health,Net Banking,0
+2023-07-18,Society maintenance,1851.07,Bills & Utilities,UPI,0
+2023-01-27,Beauty parlour,915.08,Personal Care,Cash,0
+2024-05-13,RedBus ticket,4192.34,Transport,Credit Card,0
+2023-09-15,SBI home loan EMI,4012.98,EMI & Finance,UPI,0
+2023-08-17,Kotak credit card,20872.34,EMI & Finance,Net Banking,0
+2024-02-24,JioMart,1828.26,Groceries,UPI,0
+2023-03-02,1mg order,653.98,Health,Credit Card,0
+2024-12-02,YouTube Premium (unusual),5616.77,Entertainment,Cash,1
+2023-05-12,Zomato delivery,301.48,Food,Credit Card,0
+2024-03-26,Big Bazaar,6853.66,Shopping,Credit Card,0
+2024-08-20,Salon haircut,1586.52,Personal Care,UPI,0
+2024-10-28,Reliance Digital,1573.87,Shopping,Credit Card,0
+2024-10-14,LIC premium,24107.51,EMI & Finance,UPI,0
+2023-06-14,McDonald's,128.32,Food,Credit Card,0
+2024-11-18,Petrol - HP pump,187.72,Transport,Debit Card,0
+2024-09-19,1mg order,4211.26,Health,Credit Card,0
+2024-06-29,Nature's Basket,721.58,Groceries,UPI,0
+2023-09-04,Amazon India,7360.78,Shopping,Credit Card,0
+2024-12-06,Fastag recharge,2510.44,Transport,UPI,0
+2024-06-15,ICICI personal loan EMI,13412.67,EMI & Finance,UPI,0
+2023-04-19,1mg order,3827.26,Health,Credit Card,0
+2024-12-15,Municipal tax,1667.99,Bills & Utilities,Cash,0
+2024-10-25,DTH recharge - Tata Sky,675.45,Bills & Utilities,Credit Card,0
+2023-11-20,Myntra personal care,311.25,Personal Care,UPI,0
+2024-08-27,Thyrocare test,3710.9,Health,UPI,0
+2023-02-18,Spencer's retail,5494.25,Shopping,Credit Card,0
+2023-04-19,IndiGo flight,1712.33,Transport,Net Banking,0
+2024-02-03,Croma electronics,3559.31,Shopping,UPI,0
+2024-04-17,Airtel recharge,2119.46,Bills & Utilities,UPI,0
+2023-11-11,SBI home loan EMI,19455.37,EMI & Finance,UPI,0
+2024-06-15,Salon haircut,1931.46,Personal Care,UPI,0
+2023-09-10,Myntra personal care,1750.87,Personal Care,Net Banking,0
+2023-03-02,Gym membership,117.26,Personal Care,Debit Card,0
+2024-03-20,Subway,1135.54,Food,UPI,0
+2024-01-24,Municipal tax,620.05,Bills & Utilities,UPI,0
+2024-09-29,Gym membership,1520.28,Personal Care,UPI,0
+2024-06-21,HDFC Life insurance,21077.52,EMI & Finance,UPI,0
+2024-10-26,Stationery,14951.15,Education,Debit Card,0
+2023-08-29,Uber ride,2528.65,Transport,UPI,0
+2023-04-29,Books - Amazon,12222.49,Education,UPI,0
+2023-11-04,Mutual fund SIP - Zerodha,7746.71,EMI & Finance,UPI,0
+2023-02-20,Books - Amazon,7983.84,Education,Credit Card,0
+2024-07-23,Reliance Digital,6540.37,Shopping,UPI,0
+2023-09-03,HDFC car loan EMI,16597.56,EMI & Finance,UPI,0
+2024-06-01,Blinkit grocery,2165.43,Groceries,UPI,0
+2024-08-18,Axis Bank credit card bill,18857.64,EMI & Finance,Credit Card,0
+2024-09-16,Stationery,7641.31,Education,UPI,0
+2024-01-18,DTH recharge - Tata Sky,1875.29,Bills & Utilities,UPI,0
+2023-10-05,BMTC bus pass,2464.25,Transport,Credit Card,0
+2024-01-03,ICICI personal loan EMI,12528.02,EMI & Finance,UPI,0
+2023-08-27,Myntra personal care,1017.69,Personal Care,Credit Card,0
+2024-03-06,Pizza Hut,839.99,Food,UPI,0
+2024-09-10,Salon haircut,2234.61,Personal Care,Debit Card,0
+2023-07-12,Amazon India,1899.43,Shopping,Credit Card,0
+2023-12-10,Spencer's retail,3792.82,Shopping,Net Banking,0
+2024-05-13,Flipkart order,759.62,Shopping,UPI,0
+2024-08-02,Zee5 subscription,1069.07,Entertainment,Net Banking,0
+2024-06-03,RedBus ticket,385.53,Transport,UPI,0
+2024-08-16,Flipkart order,2234.04,Shopping,Cash,0
+2024-08-01,Cult.fit subscription,727.13,Personal Care,Credit Card,0
+2023-12-09,MedPlus medicine,3922.6,Health,Net Banking,0
+2023-07-13,Gym membership,2012.24,Personal Care,Credit Card,0
+2024-08-09,Nykaa beauty,7836.2,Shopping,UPI,0
+2024-01-05,BigBasket order,861.05,Groceries,UPI,0
+2023-05-14,Petrol - Indian Oil,2576.8,Transport,UPI,0
+2024-10-22,HDFC car loan EMI,24561.34,EMI & Finance,UPI,0
+2024-10-04,Fastag recharge,1987.5,Transport,Cash,0
+2024-06-07,BMTC bus pass (unusual),18198.15,Transport,UPI,1
+2024-10-28,Diagnostic lab - SRL,497.63,Health,Net Banking,0
+2023-10-20,Dunzo grocery,1402.73,Groceries,Net Banking,0
+2023-08-23,College fee,4499.43,Education,UPI,0
+2023-11-18,Swiggy Instamart,798.53,Groceries,UPI,0
+2024-08-02,Axis Bank credit card bill,20523.91,EMI & Finance,Cash,0
+2023-05-31,Spencer's retail,4198.61,Shopping,Net Banking,0
+2024-06-12,TATA Power bill,672.87,Bills & Utilities,Net Banking,0
+2024-01-24,HDFC Life insurance,2016.56,EMI & Finance,Credit Card,0
+2024-12-11,Coursera subscription,2506.42,Education,UPI,0
+2024-12-25,ICICI personal loan EMI,2664.11,EMI & Finance,UPI,0
+2023-11-17,Society maintenance,2147.56,Bills & Utilities,Credit Card,0
+2024-12-30,Myntra clothes,6976.78,Shopping,UPI,0
+2023-08-01,Society maintenance,2274.5,Bills & Utilities,Debit Card,0
+2024-12-03,IRCTC train ticket,4179.81,Transport,UPI,0
+2024-12-14,Doctor consultation fee,2986.34,Health,Debit Card,0
+2024-04-29,PVR Cinemas,829.12,Entertainment,Cash,0
+2024-06-28,LinkedIn Learning,12528.62,Education,UPI,0
+2024-12-31,DMart grocery,650.92,Shopping,Credit Card,0
+2023-11-07,BookMyShow movie,145.04,Entertainment,Credit Card,0
+2024-04-15,MedPlus medicine,3759.77,Health,UPI,0
+2024-05-08,DTH recharge - Tata Sky,3407.87,Bills & Utilities,UPI,0
+2024-12-04,JioMart,747.68,Groceries,Debit Card,0
+2023-10-10,IndiGo flight,2525.82,Transport,Credit Card,0
+2024-03-13,Stationery,2727.05,Education,UPI,0
+2023-03-01,INOX movies,818.06,Entertainment,UPI,0
+2024-12-11,Salon haircut,1561.59,Personal Care,Credit Card,0
+2023-08-31,Books - Amazon,14620.64,Education,Debit Card,0
+2023-11-21,1mg order,2133.19,Health,Net Banking,0
+2024-12-21,Airtel recharge,1537.87,Bills & Utilities,Credit Card,0
+2024-01-10,Ajio fashion,5874.56,Shopping,Debit Card,0
+2023-09-16,Diagnostic lab - SRL,279.82,Health,UPI,0
+2023-11-16,Flipkart order,4049.92,Shopping,UPI,0
+2023-04-24,Dunkin Donuts,838.75,Food,UPI,0
+2023-04-09,BESCOM electricity,2461.96,Bills & Utilities,Credit Card,0
+2024-09-24,DTH recharge - Dish TV,3011.04,Bills & Utilities,UPI,0
+2023-12-20,Doctor consultation fee,1991.95,Health,UPI,0
+2023-04-06,YouTube Premium,557.53,Entertainment,UPI,0
+2023-03-17,Zee5 subscription,1497.83,Entertainment,Cash,0
+2023-11-28,Piped gas bill,2484.33,Bills & Utilities,Credit Card,0
+2024-07-10,Coursera subscription,11900.74,Education,UPI,0
+2024-08-20,Amazon Prime,913.24,Entertainment,Credit Card,0
+2024-05-02,IRCTC train ticket,1954.23,Transport,Cash,0
+2023-03-15,LinkedIn Learning,12583.64,Education,Debit Card,0
+2023-09-11,HDFC Life insurance,22691.12,EMI & Finance,UPI,0
+2023-10-17,Netmeds delivery,3040.41,Health,Cash,0
+2023-04-03,Amazon Prime,748.15,Entertainment,Net Banking,0
+2023-01-17,Nature's Basket,2739.96,Groceries,UPI,0
+2024-03-16,Udemy course,14312.42,Education,UPI,0
+2024-04-16,Nature's Basket,2889.53,Groceries,UPI,0
+2024-09-23,Myntra personal care,826.72,Personal Care,Debit Card,0
+2023-09-28,Municipal tax,3104.45,Bills & Utilities,Net Banking,0
+2024-01-28,Axis Bank credit card bill,24557.82,EMI & Finance,UPI,0
+2024-01-03,Laundry service - Urban Company,1866.21,Personal Care,UPI,0
+2024-08-15,Practo consultation,4100.62,Health,Debit Card,0
+2023-06-02,Zepto delivery,933.7,Groceries,UPI,0
+2024-04-15,Piped gas bill,3155.09,Bills & Utilities,Net Banking,0
+2023-10-17,Fortis hospital,451.93,Health,Debit Card,0
+2023-03-16,Dunkin Donuts,453.62,Food,Debit Card,0
+2023-02-05,Local kirana store,1001.73,Groceries,UPI,0
+2024-03-28,Laundry service - Urban Company,2018.98,Personal Care,Debit Card,0
+2024-04-27,More supermarket,1580.19,Groceries,Credit Card,0
+2023-08-21,LIC premium,11580.0,EMI & Finance,Net Banking,0
+2023-09-04,INOX movies,203.89,Entertainment,UPI,0
+2024-01-17,Diagnostic lab - SRL,641.17,Health,UPI,0
+2023-09-12,ICICI personal loan EMI,7699.09,EMI & Finance,Credit Card,0
+2023-01-30,Local kirana store,775.35,Groceries,UPI,0
+2023-11-01,College fee,3760.57,Education,Cash,0
+2024-11-25,Burger King,893.07,Food,Credit Card,0
+2024-06-14,SIP - Groww,11088.29,EMI & Finance,Credit Card,0
+2024-10-26,Kotak credit card,3895.67,EMI & Finance,Credit Card,0
+2024-06-05,Uber ride,593.13,Transport,Credit Card,0
+2024-12-14,College fee,10169.95,Education,UPI,0
+2024-06-08,INOX movies,292.59,Entertainment,Credit Card,0
+2024-02-12,INOX movies,1319.89,Entertainment,Cash,0
+2023-05-03,DTH recharge - Tata Sky,2355.55,Bills & Utilities,UPI,0
+2024-07-18,INOX movies,1444.69,Entertainment,UPI,0
+2024-10-07,Pizza Hut,87.15,Food,UPI,0
+2023-06-07,HDFC car loan EMI,24248.95,EMI & Finance,Credit Card,0
+2024-11-25,Ola outstation,951.75,Transport,UPI,0
+2023-06-16,Practo consultation,2321.71,Health,Debit Card,0
+2024-01-07,Subway,137.3,Food,Credit Card,0
+2023-12-14,Diagnostic lab - SRL,485.37,Health,Net Banking,0
+2024-09-27,Flipkart order,5033.93,Shopping,UPI,0
+2024-07-27,Nykaa skincare,1093.7,Personal Care,UPI,0
+2024-10-22,Beauty parlour,501.84,Personal Care,UPI,0
+2023-02-27,College fee,3045.57,Education,UPI,0
+2024-02-26,PVR Cinemas,304.32,Entertainment,UPI,0
+2024-10-15,Books - Amazon,10073.31,Education,UPI,0
+2024-05-19,Laundry service - Urban Company,1451.46,Personal Care,UPI,0
+2023-07-02,SIP - Groww,5051.45,EMI & Finance,Debit Card,0
+2023-08-01,Starbucks,1155.32,Food,UPI,0
+2023-05-07,SBI home loan EMI,14731.06,EMI & Finance,Credit Card,0
+2024-10-03,Gaming - Steam,302.36,Entertainment,UPI,0
+2024-07-23,RedBus ticket,3337.64,Transport,Debit Card,0
+2024-06-03,Petrol - HP pump,2471.16,Transport,Debit Card,0
+2024-12-30,RedBus ticket,1762.62,Transport,Credit Card,0
+2023-02-20,Myntra personal care,550.69,Personal Care,UPI,0
+2024-08-03,MedPlus medicine,1566.46,Health,Credit Card,0
+2023-08-14,More supermarket,2629.18,Groceries,UPI,0
+2024-02-28,PPF deposit,15499.15,EMI & Finance,Cash,0
+2024-02-02,Amazon Prime,462.46,Entertainment,UPI,0
+2024-05-21,Term insurance premium,17973.72,EMI & Finance,Debit Card,0
+2024-09-30,Vi recharge,1740.1,Bills & Utilities,Credit Card,0
+2024-07-16,1mg order,4277.28,Health,UPI,0
+2023-11-19,Ola outstation,3394.35,Transport,Debit Card,0
+2023-11-14,Meesho purchase,416.09,Shopping,Debit Card,0
+2024-02-14,Hotstar subscription (unusual),6566.59,Entertainment,Credit Card,1
+2023-03-29,1mg order,3430.5,Health,Credit Card,0
+2024-09-02,Spencer's retail,1447.86,Shopping,Credit Card,0
+2023-06-07,LIC premium,23837.74,EMI & Finance,UPI,0
+2024-03-26,Spotify premium,1178.29,Entertainment,UPI,0
+2023-04-20,Netmeds delivery,1564.46,Health,UPI,0
+2024-05-15,Reliance Digital,4535.17,Shopping,Credit Card,0
+2024-10-08,Spencer's retail,3824.06,Shopping,Credit Card,0
+2023-02-07,Reliance Digital,7081.51,Shopping,UPI,0
+2024-06-17,Dunzo grocery,2647.34,Groceries,Cash,0
+2023-05-15,Water tax,310.1,Bills & Utilities,UPI,0
+2024-10-03,Big Bazaar,1732.17,Shopping,Debit Card,0
+2024-11-12,TATA Power bill,1493.85,Bills & Utilities,Credit Card,0
+2024-09-24,Pizza Hut,151.31,Food,UPI,0
+2024-10-08,Spencer's retail,6500.19,Shopping,UPI,0
+2024-02-03,Beauty parlour,2251.77,Personal Care,UPI,0
+2024-06-07,HDFC Life insurance,12161.08,EMI & Finance,Credit Card,0
+2023-06-28,BlinkIt vegetables,1791.3,Groceries,Credit Card,0
+2023-05-13,Uber ride,2378.24,Transport,UPI,0
+2023-09-29,Ola cab,2098.65,Transport,UPI,0
+2024-10-23,Manipal hospital,673.01,Health,Credit Card,0
+2023-12-08,Petrol - Indian Oil,2432.1,Transport,Cash,0
+2024-05-13,Lifestyle store,7599.81,Shopping,Debit Card,0
+2023-11-30,Ola outstation,518.25,Transport,Debit Card,0
+2024-01-10,Dunzo grocery,1493.33,Groceries,Credit Card,0
+2024-11-19,ICICI personal loan EMI,2294.07,EMI & Finance,Credit Card,0
+2024-05-04,ICICI personal loan EMI,24206.45,EMI & Finance,UPI,0
+2023-02-25,Salon haircut,1621.33,Personal Care,Credit Card,0
+2024-03-07,Laundry service - Urban Company,1629.67,Personal Care,UPI,0
+2023-09-10,Yoga class fee (unusual),10697.41,Personal Care,UPI,1
+2023-10-25,Amazon India,6625.98,Shopping,UPI,0
+2024-03-27,Term insurance premium,20920.05,EMI & Finance,UPI,0
+2024-11-08,Stationery,11994.61,Education,UPI,0
+2024-10-13,BMTC bus pass,1593.31,Transport,UPI,0
+2023-04-16,Beauty parlour,899.9,Personal Care,Net Banking,0
+2024-04-09,Water tax,2379.58,Bills & Utilities,UPI,0
+2023-01-30,HDFC Life insurance,14721.78,EMI & Finance,UPI,0
+2023-03-23,HDFC car loan EMI,15346.18,EMI & Finance,Cash,0
+2024-04-22,Swiggy Instamart,1066.6,Groceries,UPI,0
+2023-06-13,Lifestyle store,2102.52,Shopping,UPI,0
+2023-07-09,Airtel recharge,2771.06,Bills & Utilities,UPI,0
+2023-02-14,Subway,732.97,Food,Credit Card,0
+2024-06-19,Netflix subscription,952.21,Entertainment,Debit Card,0
+2024-12-01,Myntra personal care,750.63,Personal Care,Net Banking,0
+2023-06-17,Ola cab,3200.16,Transport,Debit Card,0
+2023-02-13,DTH recharge - Tata Sky,2017.33,Bills & Utilities,Credit Card,0
+2024-03-01,Thyrocare test,4134.81,Health,Debit Card,0
+2024-08-05,PPF deposit,24995.89,EMI & Finance,Net Banking,0
+2024-01-25,Fortis hospital,3903.45,Health,Credit Card,0
+2024-12-04,Sony LIV,934.51,Entertainment,UPI,0
+2024-02-08,INOX movies,1472.99,Entertainment,Credit Card,0
+2024-06-11,Axis Bank credit card bill,11529.23,EMI & Finance,UPI,0
+2024-12-11,Piped gas bill,674.71,Bills & Utilities,Credit Card,0
+2024-09-23,INOX movies (unusual),5348.64,Entertainment,UPI,1
+2024-03-13,Yoga class fee,1718.78,Personal Care,Debit Card,0
+2023-04-04,Apollo pharmacy,2829.94,Health,UPI,0
+2024-03-07,SBI credit card payment,19508.28,EMI & Finance,UPI,0
+2024-02-08,Beauty parlour,1313.03,Personal Care,Credit Card,0
+2024-11-01,Dunkin Donuts,1126.72,Food,UPI,0
+2023-10-03,Nykaa beauty,1190.06,Shopping,Debit Card,0
+2024-06-22,Piped gas bill,3498.66,Bills & Utilities,Debit Card,0
+2024-04-09,RedBus ticket,2410.65,Transport,UPI,0
+2023-03-28,Books - Amazon,10662.28,Education,UPI,0
+2024-02-20,Dominos Pizza,369.25,Food,UPI,0
+2024-10-18,Netmeds delivery,2461.46,Health,Credit Card,0
+2024-03-14,Lifestyle store,4208.01,Shopping,UPI,0
+2023-03-19,Ajio fashion,3808.5,Shopping,Net Banking,0
+2024-07-28,ICICI personal loan EMI,16907.97,EMI & Finance,Debit Card,0
+2024-08-15,Myntra personal care,1933.84,Personal Care,Credit Card,0
+2024-05-29,Books - Amazon,7435.64,Education,Credit Card,0
+2024-10-19,Zomato delivery,829.21,Food,UPI,0
+2024-11-01,BYJU's fee,14230.39,Education,Net Banking,0
+2024-03-30,Metro card recharge,2779.02,Transport,UPI,0
+2023-10-14,Gym membership (unusual),8033.23,Personal Care,Net Banking,1
+2023-01-07,Books - Amazon,3696.39,Education,Credit Card,0
+2023-04-12,Municipal tax,3033.06,Bills & Utilities,UPI,0
+2023-02-25,Swiggy Instamart,2484.67,Groceries,Credit Card,0
+2024-09-28,More supermarket,2558.69,Groceries,Cash,0
+2023-04-30,IndiGo flight,2427.97,Transport,UPI,0
+2024-05-18,Croma electronics,5112.3,Shopping,UPI,0
+2024-04-21,PPF deposit,7434.96,EMI & Finance,Credit Card,0
+2023-11-04,LinkedIn Learning,10948.12,Education,Debit Card,0
+2023-11-08,Cult.fit subscription,1369.65,Personal Care,Debit Card,0
+2024-02-24,INOX movies,1250.4,Entertainment,Debit Card,0
+2024-10-05,McDonald's,1071.81,Food,UPI,0
+2023-12-25,Nykaa beauty,835.72,Shopping,Credit Card,0
+2024-12-21,Ola cab,2185.03,Transport,UPI,0
+2023-03-27,Croma electronics,4312.77,Shopping,Credit Card,0
+2024-12-10,Nykaa skincare,470.21,Personal Care,UPI,0
+2024-12-26,Vi recharge,1390.91,Bills & Utilities,UPI,0
+2024-03-25,JioMart,338.49,Groceries,Net Banking,0
+2024-10-16,College fee,825.96,Education,Debit Card,0
+2024-07-29,INOX movies,372.38,Entertainment,UPI,0
+2024-04-10,Reliance Digital,216.81,Shopping,UPI,0
+2024-01-12,Laundry service - Urban Company,961.71,Personal Care,UPI,0
+2024-06-19,Gym membership,1428.64,Personal Care,Debit Card,0
+2024-04-29,Hotstar subscription,883.77,Entertainment,Credit Card,0
+2024-05-12,BSNL broadband,409.12,Bills & Utilities,UPI,0
+2023-11-09,BSNL broadband,1332.8,Bills & Utilities,Debit Card,0
+2024-11-06,Pizza Hut,271.39,Food,UPI,0
+2023-02-27,Swiggy Instamart,769.22,Groceries,Net Banking,0
+2023-12-23,DTH recharge - Dish TV,2938.22,Bills & Utilities,Net Banking,0
+2024-05-18,BMTC bus pass,2407.67,Transport,UPI,0
+2024-01-10,Doctor consultation fee,3995.0,Health,UPI,0
+2024-12-09,Udemy course,3831.61,Education,Net Banking,0
+2023-04-16,Haldiram's,618.26,Food,UPI,0
+2023-09-27,Airtel recharge,1013.87,Bills & Utilities,Credit Card,0
+2023-09-30,Zepto delivery,435.38,Groceries,Credit Card,0
+2024-11-18,Unacademy Plus,10837.76,Education,UPI,0
+2024-05-13,Metro card recharge,487.0,Transport,Debit Card,0
+2024-07-03,Fortis hospital,869.47,Health,UPI,0
+2024-03-30,Fortis hospital,4103.81,Health,UPI,0
+2023-05-20,Swiggy order,360.68,Food,Debit Card,0
+2024-08-15,Starbucks,611.54,Food,Cash,0
+2023-09-28,McDonald's,932.85,Food,UPI,0
+2023-07-25,Ajio fashion,2701.19,Shopping,Cash,0
+2024-09-07,Local dhaba,1100.9,Food,Credit Card,0
+2023-12-23,Books - Amazon,5392.45,Education,Credit Card,0
+2024-04-24,Laundry service - Urban Company,1404.69,Personal Care,UPI,0
+2024-07-02,Society maintenance,2592.38,Bills & Utilities,UPI,0
+2024-09-21,GeeksForGeeks premium,2081.28,Education,Credit Card,0
+2024-08-22,BookMyShow movie,1251.74,Entertainment,UPI,0
+2023-12-08,Swiggy order,357.08,Food,Credit Card,0
+2024-03-15,DMart grocery,3582.95,Shopping,UPI,0
+2024-06-04,Haldiram's,971.09,Food,Net Banking,0
+2023-11-24,PVR Cinemas,1223.75,Entertainment,Debit Card,0
+2024-10-06,Uber ride,1833.15,Transport,UPI,0
+2023-04-01,Rapido bike,2148.93,Transport,Credit Card,0
+2024-11-14,Term insurance premium,13048.51,EMI & Finance,Credit Card,0
+2023-02-10,Amazon Prime,1006.56,Entertainment,UPI,0
+2024-02-12,BigBasket order,2779.35,Groceries,Cash,0
+2024-08-12,Udemy course,11578.72,Education,Cash,0
+2024-02-27,Ola cab,2334.69,Transport,Credit Card,0
+2024-12-11,BMTC bus pass,1408.94,Transport,UPI,0
+2023-10-26,DMart grocery,1272.98,Shopping,Credit Card,0
+2024-11-02,BlinkIt vegetables,2647.65,Groceries,UPI,0
+2023-03-19,Nykaa skincare,1051.97,Personal Care,Debit Card,0
+2024-11-24,Zee5 subscription,911.25,Entertainment,UPI,0
+2024-05-02,Jio recharge,373.33,Bills & Utilities,UPI,0
+2023-09-13,Burger King (unusual),5742.14,Food,Debit Card,1
+2024-05-08,Doctor consultation fee,4104.46,Health,UPI,0
+2023-09-12,LinkedIn Learning,640.99,Education,Debit Card,0
+2024-06-24,Gaming - Steam (unusual),7315.76,Entertainment,Credit Card,1
+2024-04-11,SBI credit card payment,14694.1,EMI & Finance,Credit Card,0
+2023-01-31,Nykaa beauty,6748.28,Shopping,UPI,0
+2024-04-13,LIC premium,21789.2,EMI & Finance,Debit Card,0
+2024-04-24,INOX movies,713.98,Entertainment,UPI,0
+2023-12-15,Salon haircut,1279.54,Personal Care,Cash,0
+2023-01-02,More supermarket,2018.13,Groceries,Debit Card,0
+2023-10-22,BookMyShow movie,384.19,Entertainment,Credit Card,0
+2023-02-23,Fortis hospital,3894.88,Health,Credit Card,0
+2024-07-09,Lifestyle store,4463.06,Shopping,UPI,0
+2024-06-19,Ajio fashion,7481.79,Shopping,Net Banking,0
+2024-01-22,Uber ride,4386.64,Transport,Net Banking,0
+2023-11-02,Yoga class fee,535.5,Personal Care,Debit Card,0
+2024-07-26,Local kirana store,1499.06,Groceries,Debit Card,0
+2023-04-11,Petrol - HP pump,3367.28,Transport,UPI,0
+2023-04-21,Rapido bike (unusual),12484.49,Transport,Debit Card,1
+2023-11-26,DMart grocery,2408.41,Shopping,UPI,0
+2023-11-23,SIP - Groww,17440.88,EMI & Finance,Debit Card,0
+2024-03-29,Gym membership,1961.66,Personal Care,UPI,0
+2023-11-21,Myntra personal care,569.6,Personal Care,Credit Card,0
+2023-12-13,Salon haircut,2096.9,Personal Care,UPI,0
+2023-03-09,BigBasket order,2444.38,Groceries,UPI,0
+2023-11-24,BYJU's fee,12780.93,Education,Credit Card,0
+2024-05-16,Starbucks,798.76,Food,UPI,0
+2024-09-24,Salon haircut (unusual),12096.34,Personal Care,Debit Card,1
+2024-12-09,Myntra personal care,1497.39,Personal Care,Credit Card,0
+2024-10-24,BigBasket order,2852.11,Groceries,Net Banking,0
+2024-02-07,Dunzo grocery,893.82,Groceries,UPI,0
+2024-10-28,DTH recharge - Tata Sky,1874.75,Bills & Utilities,UPI,0
+2023-03-27,Udemy course,882.29,Education,UPI,0
+2023-05-30,Kotak credit card,15424.32,EMI & Finance,Credit Card,0
+2023-06-14,More supermarket,910.76,Groceries,UPI,0
+2024-07-17,BMTC bus pass,2312.13,Transport,Debit Card,0
+2024-11-20,Dominos Pizza,637.68,Food,UPI,0
+2024-08-26,IndiGo flight,3807.96,Transport,UPI,0
+2023-07-30,Petrol - HP pump,1174.69,Transport,Debit Card,0
+2024-04-09,Air India ticket,1375.93,Transport,Debit Card,0
+2024-01-16,Society maintenance,1457.38,Bills & Utilities,Credit Card,0
+2023-09-27,1mg order,2323.25,Health,Cash,0
+2024-08-04,Myntra clothes,7822.5,Shopping,Cash,0
+2024-11-21,Barbeque Nation,457.57,Food,UPI,0
+2023-10-05,PPF deposit,15159.64,EMI & Finance,UPI,0
+2023-11-10,YouTube Premium,525.02,Entertainment,UPI,0
+2024-07-04,Water tax,583.2,Bills & Utilities,UPI,0
+2023-08-24,Blinkit grocery,1113.54,Groceries,Credit Card,0
+2023-07-17,Big Bazaar,7058.79,Shopping,UPI,0
+2023-09-14,Petrol - HP pump,2142.15,Transport,UPI,0
+2023-10-24,Coaching institute fee,9885.04,Education,UPI,0
+2024-03-25,Salon haircut,687.36,Personal Care,UPI,0
+2023-04-24,McDonald's,1182.38,Food,Credit Card,0
+2023-06-24,Subway (unusual),4486.52,Food,UPI,1
+2024-12-15,Meesho purchase,4821.65,Shopping,Debit Card,0
+2024-01-19,Meesho purchase,232.61,Shopping,Net Banking,0
+2023-04-16,Laundry service - Urban Company,982.45,Personal Care,UPI,0
+2024-02-16,Cafe Coffee Day,138.47,Food,Debit Card,0
+2023-06-25,Lifestyle store,6471.22,Shopping,Credit Card,0
+2023-04-03,BYJU's fee,7221.89,Education,Credit Card,0
+2024-07-21,Meesho purchase,1650.85,Shopping,UPI,0
+2024-10-21,Zepto delivery,2760.29,Groceries,Credit Card,0
+2023-07-23,Salon haircut (unusual),7251.95,Personal Care,Cash,1
+2023-05-28,Nykaa skincare,528.26,Personal Care,UPI,0
+2023-09-07,Beauty parlour,841.24,Personal Care,Debit Card,0
+2023-04-19,GeeksForGeeks premium,2207.15,Education,UPI,0
+2024-02-09,PPF deposit,17497.47,EMI & Finance,Credit Card,0
+2023-06-27,Dunzo grocery,2032.22,Groceries,UPI,0
+2024-08-14,LinkedIn Learning,7514.52,Education,Cash,0
+2024-06-22,Piped gas bill,2209.19,Bills & Utilities,UPI,0
+2023-04-08,Term insurance premium,14031.37,EMI & Finance,Debit Card,0
+2024-08-08,Netmeds delivery,1599.4,Health,Net Banking,0
+2023-11-25,Gym membership,2401.35,Personal Care,Credit Card,0
+2024-08-27,Dunkin Donuts,731.72,Food,UPI,0
+2024-03-27,Ola cab,2604.59,Transport,UPI,0
+2024-01-04,Dunzo grocery,2607.91,Groceries,UPI,0
+2023-03-13,Vi recharge,969.03,Bills & Utilities,Credit Card,0
+2024-05-26,Haldiram's,90.58,Food,UPI,0
+2023-05-22,DMart grocery,4422.56,Shopping,Debit Card,0
+2024-05-01,Fortis hospital,2771.08,Health,Credit Card,0
+2024-05-19,JioMart,2293.58,Groceries,Credit Card,0
+2024-09-19,Yoga class fee,2380.1,Personal Care,Net Banking,0
+2023-10-12,SBI home loan EMI,4087.92,EMI & Finance,Debit Card,0
+2023-05-07,Metro card recharge,3020.76,Transport,Debit Card,0
+2023-07-14,Uber ride,692.72,Transport,Net Banking,0
+2024-07-05,Starbucks,472.91,Food,UPI,0
+2024-12-08,More supermarket,1363.3,Groceries,Debit Card,0
+2023-01-27,Gym membership,1531.27,Personal Care,UPI,0
+2024-08-21,Salon haircut,1895.14,Personal Care,UPI,0
+2024-05-17,DTH recharge - Dish TV,3315.5,Bills & Utilities,Credit Card,0
+2024-09-23,Mutual fund SIP - Zerodha,9326.19,EMI & Finance,UPI,0
+2023-10-04,Apollo pharmacy,4823.69,Health,UPI,0
+2023-01-10,Gaming - Steam,454.82,Entertainment,UPI,0
+2024-11-10,SIP - Groww,23480.28,EMI & Finance,UPI,0
+2024-12-25,Rapido bike,3197.08,Transport,Credit Card,0
+2024-11-06,IndiGo flight,2988.66,Transport,Credit Card,0
+2023-03-28,Nykaa beauty,2185.33,Shopping,UPI,0
+2024-10-05,IndiGo flight,400.66,Transport,UPI,0
+2024-03-31,Society maintenance,2327.33,Bills & Utilities,UPI,0
+2024-02-11,Doctor consultation fee,3755.19,Health,Net Banking,0
+2024-05-11,PPF deposit,5098.84,EMI & Finance,Net Banking,0
+2024-08-20,Term insurance premium,12162.33,EMI & Finance,Credit Card,0
+2023-02-15,Zomato delivery,693.24,Food,UPI,0
+2024-02-28,Unacademy Plus,6736.01,Education,Net Banking,0
+2023-02-16,Nykaa beauty,6724.13,Shopping,Debit Card,0
+2024-07-14,Swiggy order,721.44,Food,UPI,0
+2023-09-09,DTH recharge - Dish TV,775.14,Bills & Utilities,Debit Card,0
+2023-07-17,YouTube Premium,160.44,Entertainment,Net Banking,0
+2023-07-06,RedBus ticket,2994.02,Transport,UPI,0
+2024-01-26,Beauty parlour,1645.57,Personal Care,UPI,0
+2023-06-26,Thyrocare test,2162.23,Health,Credit Card,0
+2023-05-08,SBI home loan EMI,21913.36,EMI & Finance,UPI,0
+2024-08-08,SBI home loan EMI,11012.75,EMI & Finance,UPI,0
+2024-08-10,Term insurance premium,10453.9,EMI & Finance,Debit Card,0
+2023-06-07,Sony LIV,797.25,Entertainment,Net Banking,0
+2023-09-06,Local dhaba,1096.04,Food,Credit Card,0
+2023-08-21,Zepto delivery,2591.92,Groceries,UPI,0
+2024-07-20,BYJU's fee,4477.51,Education,Cash,0
+2023-11-25,Mutual fund SIP - Zerodha,15752.11,EMI & Finance,Credit Card,0
+2023-02-15,Beauty parlour,648.17,Personal Care,Credit Card,0
+2024-07-17,Beauty parlour (unusual),8881.85,Personal Care,UPI,1
+2023-04-29,Stationery,2936.77,Education,UPI,0
+2023-01-11,Doctor consultation fee,4832.01,Health,UPI,0
+2023-07-31,Manipal hospital,3741.4,Health,UPI,0
+2023-06-19,Salon haircut,1304.41,Personal Care,UPI,0
+2024-05-24,Coaching institute fee,4972.12,Education,UPI,0
+2023-08-07,Books - Amazon,14114.39,Education,UPI,0
+2024-05-20,Sony LIV,1230.24,Entertainment,Credit Card,0
+2024-07-02,RedBus ticket,907.0,Transport,UPI,0
+2024-10-03,JioMart,618.77,Groceries,UPI,0
+2023-09-20,Gym membership,1666.34,Personal Care,UPI,0
+2023-05-24,Stationery,2659.64,Education,Net Banking,0
+2023-07-28,Mutual fund SIP - Zerodha,8337.89,EMI & Finance,Credit Card,0
+2024-09-19,Netflix subscription,949.07,Entertainment,UPI,0
+2023-07-27,SBI credit card payment,12413.43,EMI & Finance,UPI,0
+2024-01-10,IndiGo flight,1676.88,Transport,Credit Card,0
+2023-01-04,Diagnostic lab - SRL,724.0,Health,Cash,0
+2024-03-22,Air India ticket,2653.66,Transport,UPI,0
+2024-09-05,Local kirana store,1721.11,Groceries,UPI,0
+2023-08-16,Apollo pharmacy,4634.63,Health,Cash,0
+2024-12-16,Laundry service - Urban Company,323.0,Personal Care,Debit Card,0
+2023-05-04,BookMyShow movie,110.3,Entertainment,UPI,0
+2024-07-20,Dunzo grocery,2042.29,Groceries,UPI,0
+2024-02-11,Dunzo grocery,1199.8,Groceries,UPI,0
+2023-09-13,TATA Power bill,2100.17,Bills & Utilities,UPI,0
+2023-12-17,Jio recharge,1516.47,Bills & Utilities,Debit Card,0
+2023-12-13,Amazon India,3862.03,Shopping,Cash,0
+2023-10-27,BMTC bus pass,4103.89,Transport,UPI,0
+2024-12-20,More supermarket,2531.65,Groceries,UPI,0
+2023-03-21,Apollo pharmacy,2237.48,Health,UPI,0
+2024-04-17,Salon haircut,944.66,Personal Care,UPI,0
+2023-10-31,Beauty parlour,243.82,Personal Care,UPI,0
+2023-02-11,Meesho purchase,4899.21,Shopping,UPI,0
+2023-01-21,Pizza Hut,114.75,Food,UPI,0
+2024-05-27,Air India ticket,2301.68,Transport,Debit Card,0
+2023-01-30,Air India ticket,790.32,Transport,UPI,0
+2024-05-26,Nykaa skincare,394.63,Personal Care,Debit Card,0
+2023-10-26,BigBasket order,1122.87,Groceries,Debit Card,0
+2024-06-17,Barbeque Nation,957.21,Food,Net Banking,0
+2024-03-11,Airtel recharge,892.48,Bills & Utilities,Cash,0
+2023-05-05,LIC premium,21419.86,EMI & Finance,UPI,0
+2023-10-07,Fortis hospital,1900.81,Health,UPI,0
+2023-08-19,ICICI personal loan EMI,21041.35,EMI & Finance,UPI,0
+2023-12-26,Society maintenance,1027.93,Bills & Utilities,Credit Card,0
+2024-05-31,Big Bazaar,7034.63,Shopping,Debit Card,0
+2023-02-13,Coursera subscription,7048.34,Education,Debit Card,0
+2024-01-05,IRCTC train ticket,2348.21,Transport,UPI,0
+2023-03-20,SBI home loan EMI,8666.69,EMI & Finance,Credit Card,0
+2024-09-13,Spotify premium,777.44,Entertainment,UPI,0
+2024-11-30,Axis Bank credit card bill,17527.47,EMI & Finance,UPI,0
+2023-07-26,Doctor consultation fee,1057.49,Health,UPI,0
+2023-01-14,Diagnostic lab - SRL,1501.05,Health,Debit Card,0
+2024-05-04,Water tax,1643.27,Bills & Utilities,Net Banking,0
+2024-05-28,Big Bazaar,7036.39,Shopping,UPI,0
+2023-06-03,McDonald's,131.5,Food,UPI,0
+2024-08-27,Fastag recharge,3345.97,Transport,Credit Card,0
+2024-02-04,Manipal hospital,128.89,Health,UPI,0
+2024-01-23,Axis Bank credit card bill,17307.23,EMI & Finance,Debit Card,0
+2024-01-20,DTH recharge - Dish TV,2167.31,Bills & Utilities,UPI,0
+2023-07-30,Coursera subscription,8036.55,Education,UPI,0
+2024-10-01,Manipal hospital,3255.01,Health,Net Banking,0
+2024-04-30,Spotify premium,1176.68,Entertainment,UPI,0
+2023-08-29,McDonald's,325.87,Food,UPI,0
+2024-03-10,Airtel recharge,2858.72,Bills & Utilities,Cash,0
+2024-03-29,Local kirana store,2263.35,Groceries,UPI,0
+2024-10-05,Gaming - Steam,289.67,Entertainment,UPI,0
+2024-11-03,Starbucks,182.97,Food,Cash,0
+2024-11-11,BMTC bus pass,4316.42,Transport,UPI,0
+2023-12-04,Piped gas bill,977.22,Bills & Utilities,Debit Card,0
+2023-05-29,Manipal hospital,3445.42,Health,Cash,0
+2023-05-19,DTH recharge - Dish TV,2526.95,Bills & Utilities,Credit Card,0
+2024-11-19,Starbucks,613.71,Food,Net Banking,0
+2023-12-30,Books - Amazon,8504.73,Education,UPI,0
+2024-02-23,Meesho purchase,2222.94,Shopping,Net Banking,0
+2024-09-16,PVR Cinemas,1464.5,Entertainment,Debit Card,0
+2023-11-28,MedPlus medicine,1668.2,Health,UPI,0
+2024-07-13,Hotstar subscription,317.63,Entertainment,Cash,0
+2024-09-09,Spencer's retail,2572.88,Shopping,Debit Card,0
+2024-10-12,Dunzo grocery,963.26,Groceries,UPI,0
+2024-05-25,Zepto delivery,1360.6,Groceries,UPI,0
+2023-06-25,Myntra personal care,1633.61,Personal Care,UPI,0
+2024-07-21,Netmeds delivery,4577.3,Health,UPI,0
+2024-03-27,Nature's Basket,2083.17,Groceries,Credit Card,0
+2023-09-06,Society maintenance,2788.87,Bills & Utilities,Debit Card,0
+2023-04-30,Coursera subscription,6551.52,Education,Net Banking,0
+2023-03-04,Yoga class fee,1939.53,Personal Care,UPI,0
+2023-02-04,Gym membership,490.38,Personal Care,UPI,0
+2023-06-04,Ajio fashion,1073.79,Shopping,UPI,0
+2024-04-04,Big Bazaar,6988.17,Shopping,UPI,0
+2023-08-13,Swiggy order,303.02,Food,UPI,0
+2024-04-10,Kotak credit card,7204.8,EMI & Finance,Cash,0
+2024-09-22,Fortis hospital,503.9,Health,Credit Card,0
+2023-06-29,Salon haircut,842.3,Personal Care,Debit Card,0
+2023-03-13,Spotify premium,664.88,Entertainment,Debit Card,0
+2023-02-11,PPF deposit,4583.26,EMI & Finance,UPI,0
+2023-03-31,Kotak credit card,24483.04,EMI & Finance,Net Banking,0
+2024-12-20,Metro card recharge,3902.27,Transport,UPI,0
+2023-06-09,Ajio fashion,274.08,Shopping,Credit Card,0
+2024-03-01,1mg order,514.85,Health,Credit Card,0
+2024-07-06,Municipal tax,2853.62,Bills & Utilities,UPI,0
+2023-02-22,Cafe Coffee Day,1138.76,Food,Credit Card,0
+2024-03-08,Spotify premium,1397.02,Entertainment,UPI,0
+2024-05-02,Uber ride,326.76,Transport,Net Banking,0
+2023-10-30,1mg order,3825.66,Health,UPI,0
+2024-11-05,Coursera subscription,11425.87,Education,UPI,0
+2023-03-02,Local kirana store,980.76,Groceries,Cash,0
+2024-10-18,Apollo pharmacy,2027.0,Health,UPI,0
+2023-02-05,Fortis hospital,3704.75,Health,UPI,0
+2023-04-21,Salon haircut,1525.42,Personal Care,UPI,0
+2023-02-17,Dominos Pizza,329.97,Food,Credit Card,0
+2023-06-15,Nykaa skincare,2137.36,Personal Care,UPI,0
+2023-11-04,Pizza Hut,507.19,Food,Net Banking,0
+2024-12-14,Hotstar subscription,766.1,Entertainment,UPI,0
+2023-11-23,Coaching institute fee,6131.53,Education,UPI,0
+2023-06-22,BSNL broadband,1107.01,Bills & Utilities,Credit Card,0
+2023-07-26,Swiggy Instamart,2192.8,Groceries,UPI,0
+2024-01-10,Beauty parlour,370.07,Personal Care,UPI,0
+2023-12-06,YouTube Premium,817.24,Entertainment,UPI,0
+2024-11-27,McDonald's,912.32,Food,Debit Card,0
+2024-09-18,Books - Amazon,8107.37,Education,Credit Card,0
+2023-11-12,Doctor consultation fee,1867.43,Health,UPI,0
+2024-01-22,HDFC Life insurance,18863.34,EMI & Finance,UPI,0
+2024-02-07,Nature's Basket,1221.76,Groceries,Debit Card,0
+2024-08-05,Fastag recharge,1533.11,Transport,UPI,0
+2024-11-14,Big Bazaar,5164.39,Shopping,Debit Card,0
+2024-02-18,BYJU's fee,1451.45,Education,Debit Card,0
+2023-06-15,Vi recharge,2187.09,Bills & Utilities,Cash,0
+2023-05-21,GeeksForGeeks premium,5598.63,Education,UPI,0
+2023-12-07,Gym membership,1250.55,Personal Care,Net Banking,0
+2023-02-28,Cafe Coffee Day,736.81,Food,Credit Card,0
+2023-08-29,Yoga class fee,324.13,Personal Care,Cash,0
+2024-02-04,Metro card recharge,2800.55,Transport,UPI,0
+2023-03-06,JioMart,943.28,Groceries,Debit Card,0
+2023-11-16,Fastag recharge,2869.91,Transport,Debit Card,0
+2024-01-17,BigBasket order,2275.39,Groceries,Net Banking,0
+2024-10-25,Netflix subscription,1375.99,Entertainment,Debit Card,0
+2023-07-11,Cult.fit subscription,919.2,Personal Care,Net Banking,0
+2023-05-17,Zee5 subscription,559.17,Entertainment,Net Banking,0
+2023-11-09,Beauty parlour,2284.93,Personal Care,UPI,0
+2024-03-24,Society maintenance,485.47,Bills & Utilities,Debit Card,0
+2023-10-17,Meesho purchase,6933.57,Shopping,Debit Card,0
+2024-12-18,Fastag recharge,2076.28,Transport,UPI,0
+2023-08-26,Gym membership,1294.4,Personal Care,Credit Card,0
+2024-08-20,Diagnostic lab - SRL,2340.43,Health,UPI,0
+2024-07-01,Subway,1061.73,Food,UPI,0
+2024-01-02,Cult.fit subscription,1277.32,Personal Care,Credit Card,0
+2024-07-17,College fee,1566.21,Education,Credit Card,0
+2023-02-28,Vi recharge,694.77,Bills & Utilities,Debit Card,0
+2024-09-12,Amazon Prime,734.5,Entertainment,UPI,0
+2023-01-01,DMart grocery,7245.4,Shopping,Credit Card,0
+2023-01-11,TATA Power bill,1560.27,Bills & Utilities,UPI,0
+2023-08-22,LinkedIn Learning,9832.99,Education,Debit Card,0
+2024-11-02,Flipkart order,4512.35,Shopping,Net Banking,0
+2023-11-17,Blinkit grocery,1782.59,Groceries,UPI,0
+2024-03-26,GeeksForGeeks premium,622.88,Education,Credit Card,0
+2023-04-18,Mutual fund SIP - Zerodha,8891.53,EMI & Finance,UPI,0
+2023-01-06,Salon haircut,485.77,Personal Care,Cash,0
+2024-05-25,Laundry service - Urban Company,1099.41,Personal Care,UPI,0
+2024-02-28,Uber ride,3023.23,Transport,Debit Card,0
+2024-08-21,Pizza Hut,1190.52,Food,Credit Card,0
+2024-05-21,Thyrocare test,1052.73,Health,Credit Card,0
+2023-04-24,Axis Bank credit card bill,2062.97,EMI & Finance,Credit Card,0
+2023-07-18,Starbucks,878.9,Food,Credit Card,0
+2024-04-05,Mutual fund SIP - Zerodha,18654.18,EMI & Finance,Debit Card,0
+2023-11-12,SIP - Groww,4520.91,EMI & Finance,UPI,0
+2024-07-02,Apollo pharmacy,181.96,Health,Debit Card,0
+2023-04-12,Flipkart order,1776.22,Shopping,UPI,0
+2024-10-02,Fastag recharge,2802.97,Transport,Cash,0
+2023-06-03,Blinkit grocery,1616.44,Groceries,UPI,0
+2024-04-13,Meesho purchase,2872.83,Shopping,Cash,0
+2023-10-12,Myntra personal care,1874.21,Personal Care,UPI,0
+2024-12-01,Udemy course,9453.16,Education,UPI,0
+2024-05-10,Society maintenance,2867.06,Bills & Utilities,Credit Card,0
+2023-08-12,Nature's Basket,2679.43,Groceries,Net Banking,0
+2024-07-06,Unacademy Plus,4537.92,Education,UPI,0
+2023-06-20,DTH recharge - Dish TV,2512.3,Bills & Utilities,UPI,0
+2024-12-14,Reliance Digital,3738.42,Shopping,Credit Card,0
+2023-05-04,Blinkit grocery,1777.27,Groceries,Credit Card,0
+2023-12-21,BSNL broadband,2741.25,Bills & Utilities,UPI,0
+2024-09-11,Myntra clothes,5338.12,Shopping,Debit Card,0
+2024-09-08,Blinkit grocery,567.37,Groceries,UPI,0
+2023-11-21,DTH recharge - Dish TV,884.02,Bills & Utilities,Debit Card,0
+2023-03-04,LinkedIn Learning,6083.21,Education,UPI,0
+2023-04-03,YouTube Premium,1330.59,Entertainment,UPI,0
+2024-01-20,DMart grocery,5132.74,Shopping,Credit Card,0
+2023-02-25,Salon haircut,2119.54,Personal Care,Credit Card,0
+2024-12-29,PVR Cinemas,449.37,Entertainment,Credit Card,0
+2023-09-18,Gym membership,1000.15,Personal Care,Credit Card,0
+2024-10-29,Spotify premium,392.84,Entertainment,Debit Card,0
+2023-07-25,HDFC car loan EMI,14721.1,EMI & Finance,UPI,0
+2023-02-09,LinkedIn Learning,9800.21,Education,Debit Card,0
+2024-01-15,INOX movies,1323.75,Entertainment,UPI,0
+2024-01-20,Water tax,1818.99,Bills & Utilities,UPI,0
+2023-09-01,Zepto delivery,1220.88,Groceries,Credit Card,0
+2023-07-20,PVR Cinemas,565.86,Entertainment,Debit Card,0
+2024-06-25,Society maintenance,3446.72,Bills & Utilities,Debit Card,0
+2024-03-24,Petrol - HP pump,2973.75,Transport,Debit Card,0
+2024-10-17,Croma electronics,3159.75,Shopping,Cash,0
+2024-01-24,Zomato delivery,940.73,Food,UPI,0
+2024-07-08,BYJU's fee,7016.07,Education,Debit Card,0
+2024-01-24,Practo consultation,846.82,Health,UPI,0
+2023-03-25,Mutual fund SIP - Zerodha,2947.47,EMI & Finance,Net Banking,0
+2024-02-29,BYJU's fee,13028.39,Education,UPI,0
+2023-11-02,Term insurance premium,16888.87,EMI & Finance,Credit Card,0
+2023-02-10,Spencer's retail,957.88,Shopping,Credit Card,0
+2023-07-12,Nykaa beauty,7969.88,Shopping,UPI,0
+2023-03-01,Books - Amazon,12419.38,Education,Debit Card,0
+2023-10-17,MedPlus medicine,1990.79,Health,Credit Card,0
+2023-03-11,Doctor consultation fee,1342.89,Health,UPI,0
+2024-01-17,Axis Bank credit card bill,9016.66,EMI & Finance,UPI,0
+2023-10-26,Blinkit grocery,223.35,Groceries,UPI,0
+2024-03-14,Salon haircut,1188.19,Personal Care,UPI,0
+2024-08-17,Petrol - Indian Oil,2693.66,Transport,UPI,0
+2023-08-03,Water tax,3184.88,Bills & Utilities,Debit Card,0
+2023-08-29,Myntra clothes,6862.85,Shopping,UPI,0
+2023-02-03,Local kirana store,665.31,Groceries,Credit Card,0
+2023-04-16,Sony LIV,558.8,Entertainment,UPI,0
+2023-02-08,IRCTC train ticket,805.52,Transport,Credit Card,0
+2023-01-23,Stationery,10255.13,Education,UPI,0
+2023-04-23,Fastag recharge (unusual),11831.12,Transport,UPI,1
+2024-08-05,Amazon India,3445.02,Shopping,Credit Card,0
+2023-03-01,Stationery,9707.21,Education,UPI,0
+2024-08-04,ICICI personal loan EMI,10511.22,EMI & Finance,Debit Card,0
+2023-09-27,Mutual fund SIP - Zerodha,21822.37,EMI & Finance,UPI,0
+2023-04-11,Vi recharge,2664.33,Bills & Utilities,UPI,0
+2024-12-06,Coursera subscription,2769.72,Education,UPI,0
+2024-02-13,MedPlus medicine,2054.41,Health,UPI,0
+2024-11-24,GeeksForGeeks premium,13556.6,Education,Debit Card,0
+2024-04-30,Swiggy order,233.48,Food,UPI,0
+2023-12-06,BlinkIt vegetables,446.71,Groceries,UPI,0
+2024-03-20,DTH recharge - Tata Sky,1957.97,Bills & Utilities,Credit Card,0
+2023-07-16,Apollo pharmacy,4947.52,Health,UPI,0
+2024-07-10,Vi recharge,2528.62,Bills & Utilities,Cash,0
+2024-05-28,SBI credit card payment,16380.31,EMI & Finance,UPI,0
+2024-05-16,Axis Bank credit card bill,12523.66,EMI & Finance,UPI,0
+2024-02-24,Petrol - Indian Oil,3414.71,Transport,UPI,0
+2024-10-03,Vi recharge,1016.41,Bills & Utilities,UPI,0
+2024-10-13,BYJU's fee,9067.05,Education,UPI,0
+2023-05-28,1mg order,4194.01,Health,Credit Card,0
+2023-12-19,MedPlus medicine,635.44,Health,Credit Card,0
+2024-03-08,Society maintenance,2181.12,Bills & Utilities,UPI,0
+2024-07-15,HDFC car loan EMI,12944.66,EMI & Finance,Debit Card,0
+2024-01-27,Myntra clothes,1565.54,Shopping,Credit Card,0
+2023-08-05,Municipal tax,3079.03,Bills & Utilities,UPI,0
+2024-04-19,Doctor consultation fee,1921.24,Health,Credit Card,0
+2024-05-02,Zomato delivery,533.91,Food,UPI,0
+2024-03-10,Rapido bike,3764.6,Transport,Cash,0
+2024-01-22,Udemy course,6175.08,Education,UPI,0
+2024-02-08,Barbeque Nation (unusual),4893.53,Food,UPI,1
+2023-06-20,Dominos Pizza,475.5,Food,UPI,0
+2023-01-01,DMart grocery,4639.02,Shopping,UPI,0
+2023-01-13,YouTube Premium,435.96,Entertainment,Credit Card,0
+2023-12-19,Metro card recharge,984.74,Transport,Debit Card,0
+2024-01-10,Beauty parlour,2018.81,Personal Care,Credit Card,0
+2023-10-04,Term insurance premium,2752.43,EMI & Finance,UPI,0
+2024-08-17,Air India ticket,288.86,Transport,Credit Card,0
+2023-01-27,College fee,12078.45,Education,UPI,0
+2023-09-08,Petrol - Indian Oil,2875.65,Transport,Credit Card,0
+2024-04-04,Local kirana store,1890.2,Groceries,Debit Card,0
+2024-04-15,Swiggy order,191.52,Food,Debit Card,0
+2023-09-11,Axis Bank credit card bill,12728.87,EMI & Finance,UPI,0
+2023-03-05,Airtel recharge,2776.41,Bills & Utilities,UPI,0
+2024-09-01,Amazon India,665.18,Shopping,Debit Card,0
+2024-11-19,Ola outstation,1894.39,Transport,Net Banking,0
+2023-08-13,Nykaa skincare,2254.77,Personal Care,UPI,0
+2023-11-15,MedPlus medicine,4397.26,Health,Net Banking,0
+2023-02-23,Coursera subscription,6163.97,Education,UPI,0
+2023-09-22,McDonald's,258.48,Food,UPI,0
+2023-02-10,Swiggy Instamart,1682.93,Groceries,Cash,0
+2024-05-18,Apollo pharmacy,1442.78,Health,UPI,0
+2024-11-01,Cult.fit subscription,2236.27,Personal Care,Credit Card,0
+2023-10-24,Doctor consultation fee,4806.85,Health,Debit Card,0
+2023-11-04,Airtel recharge,3447.81,Bills & Utilities,Credit Card,0
+2023-07-10,DTH recharge - Dish TV,1622.13,Bills & Utilities,UPI,0
+2023-01-05,Gym membership,1178.98,Personal Care,UPI,0
+2024-08-29,GeeksForGeeks premium,13289.31,Education,UPI,0
+2023-06-27,Doctor consultation fee,4682.51,Health,Cash,0
+2024-11-06,PPF deposit,11156.98,EMI & Finance,UPI,0
+2024-05-10,Myntra personal care,2176.63,Personal Care,UPI,0
+2023-02-02,College fee,5228.15,Education,UPI,0
+2024-08-11,College fee,13203.64,Education,Debit Card,0
+2023-01-02,DTH recharge - Dish TV,2472.04,Bills & Utilities,UPI,0
+2024-04-23,BYJU's fee,8864.23,Education,UPI,0
+2024-09-27,BookMyShow movie,100.4,Entertainment,UPI,0
+2023-04-08,Doctor consultation fee,2872.7,Health,Net Banking,0
+2024-05-31,Rapido bike,3576.45,Transport,Credit Card,0
+2024-08-28,More supermarket,1006.43,Groceries,UPI,0
+2024-05-02,Unacademy Plus,7599.53,Education,Net Banking,0
+2023-10-21,McDonald's,379.02,Food,Debit Card,0
+2023-02-27,Manipal hospital,3821.52,Health,Net Banking,0
+2024-11-01,MedPlus medicine,3986.17,Health,UPI,0
+2023-04-23,Big Bazaar,4049.42,Shopping,Debit Card,0
+2023-07-16,TATA Power bill,1581.99,Bills & Utilities,Credit Card,0
+2024-10-23,1mg order,3867.96,Health,Debit Card,0
+2024-06-25,Zomato delivery,719.93,Food,Cash,0
+2024-05-24,Ajio fashion,2457.69,Shopping,UPI,0
+2024-01-15,Diagnostic lab - SRL,3940.56,Health,UPI,0
+2023-06-11,HDFC Life insurance,17435.85,EMI & Finance,UPI,0
+2023-12-20,Nykaa beauty,6919.58,Shopping,UPI,0
+2024-06-07,Myntra personal care,457.95,Personal Care,UPI,0
+2023-05-02,Lifestyle store,2576.54,Shopping,Debit Card,0
+2023-11-17,PVR Cinemas,432.55,Entertainment,UPI,0
+2024-07-10,Kotak credit card,13853.82,EMI & Finance,Cash,0
+2023-07-14,Starbucks,873.04,Food,Credit Card,0
+2024-12-24,Ola cab,82.15,Transport,Net Banking,0
+2023-01-20,Unacademy Plus,11383.1,Education,Credit Card,0
+2024-06-02,Term insurance premium,11852.69,EMI & Finance,UPI,0
+2024-08-16,Vi recharge,1009.45,Bills & Utilities,Debit Card,0
+2023-07-08,Ola outstation,3199.18,Transport,Credit Card,0
+2024-10-26,HDFC car loan EMI,2438.8,EMI & Finance,Net Banking,0
+2023-05-29,Ola cab,1850.3,Transport,UPI,0
+2023-12-05,Nature's Basket,1379.2,Groceries,Cash,0
+2023-12-26,IndiGo flight,1585.89,Transport,UPI,0
+2024-09-29,Ola cab,1111.06,Transport,Credit Card,0
+2024-09-04,INOX movies,530.56,Entertainment,UPI,0
+2023-04-26,Ajio fashion,1670.15,Shopping,Net Banking,0
+2024-10-29,Axis Bank credit card bill,16953.31,EMI & Finance,Debit Card,0
+2024-06-26,Doctor consultation fee,3184.26,Health,UPI,0
+2024-02-06,Ola outstation,4284.82,Transport,UPI,0
+2023-02-07,JioMart,2943.34,Groceries,Cash,0
+2024-12-07,HDFC Life insurance,5976.76,EMI & Finance,Debit Card,0
+2023-01-31,BSNL broadband,2265.11,Bills & Utilities,Net Banking,0
+2023-09-17,Laundry service - Urban Company,2250.4,Personal Care,Credit Card,0
+2024-01-26,College fee,10547.57,Education,UPI,0
+2023-03-29,IndiGo flight,1999.36,Transport,Credit Card,0
+2024-12-30,Meesho purchase,4105.08,Shopping,UPI,0
