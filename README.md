@@ -32,7 +32,7 @@ New transaction description
         ↓
 [Anomaly Detector] Z-score → flags unusual spends
         ↓
-[AI Advisor] Gemini API → 3 natural language budget tips
+[AI Advisor] Groq + LLaMA 3.3 → 3 natural language budget tips
 ```
 
 ---
@@ -45,7 +45,7 @@ New transaction description
 - **Data:** pandas, numpy
 - **Charts:** Plotly
 - **Database:** SQLite
-- **AI Layer:** Google Gemini API
+- **AI Layer:** Groq + LLaMA 3.3
 - **Deployment:** Hugging Face Spaces
 
 ---
@@ -54,7 +54,7 @@ New transaction description
 
 ```bash
 # 1. Clone and setup
-git clone https://github.com/yourusername/ai-finance-advisor
+git clone https://github.com/SAKTHIPRIYASATHISH/ai-finance-advisor
 cd ai-finance-advisor
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
